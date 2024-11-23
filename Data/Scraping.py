@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
+# Function to scrape the data from the given URL and return the HTML content by parsing it
 def scrape(url):
     try:
         response = requests.get(url, verify=False)
