@@ -71,41 +71,54 @@ def generate_json_from_text(prompt):
 def extract_data(urls, metadata):
     major_json = {}
     prompts = {
-        'faculty': """Extract structured information from the provided HTML related to the Physics Department of IIT Bombay. The output should be a JSON object formatted for a chatbot RAG Database. Prioritize extracting the following key details:
-        Name of the faculty
-        Email address
-        Phone number
-        Office location
-        Research interests
-        Publications
-        Other Details
+        'faculty': """"Extract detailed and structured information from the provided HTML related to the faculty members of the Physics Department at IIT Bombay. Format the output as a JSON object suitable for integration into a chatbot RAG Database. Ensure the following details are extracted and organized for each faculty member:
+        - Full Name
+        - Email Address
+        - Phone Number
+        - Office Location (Room Number or Building Name)
+        - Research Interests (Key areas of focus or expertise)
+        - Select Recent Publications (Highlight up to 5 relevant publications with titles and links, if available)
+        - Additional Details (e.g., awards, affiliations, personal website links, or roles within the department)
+        If any of the details are unavailable, explicitly mark them as 'Not Available'. Ensure accuracy and completeness.
         Text:
         {sections}""",
         
-        'research': """Extract structured information from the provided HTML related to the Physics Department of IIT Bombay. The output should be a JSON object formatted for a chatbot RAG Database. Prioritize extracting the following key details:
-        Description of the research
-        People researching in that area
-        Other Details
+        'research': """Extract structured and detailed information about research activities from the provided HTML related to the Physics Department at IIT Bombay. Format the output as a JSON object tailored for a chatbot RAG Database. Focus on capturing the following:
+        - Research Area/Description (Concise and precise summary)
+        - Key Researchers (Names and roles of faculty, staff, or students involved in this area)
+        - Ongoing Projects (Provide project names, brief descriptions, and links if available)
+        - Additional Details (e.g., facilities used, collaborations, or notable achievements in this area)
+        If information is incomplete, explicitly indicate 'Not Available'. Maintain accuracy and logical organization.
         Text:
         {sections}""",
         
-        'staff': """Extract structured information from the provided HTML related to the Physics Department of IIT Bombay. The output should be a JSON object formatted for a chatbot RAG Database. Prioritize extracting the following key details:
-        Name of the staff
-        Designation
-        Email address
-        Phone number
-        Office location
-        Other Details
+        'staff': """Extract structured and detailed information about staff members from the provided HTML related to the Physics Department at IIT Bombay. Format the output as a JSON object suitable for a chatbot RAG Database. Extract and organize the following details for each staff member:
+        - Full Name
+        - Designation (e.g., Administrative Assistant, Technical Staff, etc.)
+        - Email Address
+        - Phone Number
+        - Office Location
+        - Additional Details (e.g., key responsibilities, department roles, or notable achievements)
+        If any information is missing, indicate 'Not Available'. Ensure the output is clean and well-structured.
         Text:
         {sections}""",
         
-        'facilities': """Extract structured information from the provided HTML related to the Physics Department of IIT Bombay. 
-        The output should be a JSON object formatted for a chatbot RAG Database.
-        Give me the complete output for this prompt.
+        'facilities': """Extract detailed and structured information about facilities from the provided HTML related to the Physics Department at IIT Bombay. Format the output as a JSON object suitable for a chatbot RAG Database. Capture and prioritize the following:
+        - Facility Name (e.g., laboratories, equipment, or specialized rooms)
+        - Description (Purpose and key features of the facility)
+        - Location (Building and room number or general area)
+        - Accessibility (Who can use this facility, e.g., students, faculty, external researchers)
+        - Additional Details (e.g., operating hours, booking procedures, or contact information)
+        If any details are not provided, explicitly indicate 'Not Available'. Ensure the description is detailed and user-friendly.
         Text:
         {sections}""",
         
-        'others': """Extract structured information from the provided HTML related to the Physics Department of IIT Bombay. The output should be a JSON object formatted for a chatbot RAG Database.
+        'others': """Extract structured and comprehensive information from the provided HTML related to the Physics Department at IIT Bombay. Format the output as a JSON object optimized for a chatbot RAG Database. Include any relevant information that does not fall into other predefined categories, such as:
+        - Departmental History or Overview
+        - Events or Announcements
+        - Student Achievements
+        - Miscellaneous Information (e.g., external collaborations, recent news, or partnerships)
+        For each item, clearly label the category and details. Mark missing information as 'Not Available' where applicable. Maintain clarity and organization.
         Text:
         {sections}"""
     }
