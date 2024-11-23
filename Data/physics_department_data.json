@@ -1,7 +1,147 @@
 {
   "faculty": [
     {
-      "error": "JSON decoding failed: Expecting ',' delimiter: line 7 column 43 (char 138)"
+      "name": "Aftab Alam",
+      "title": "Professor",
+      "email": "aftab@phy.iitb.ac.in",
+      "phone": "+91-22-25765564 (O)",
+      "office_location": "229C",
+      "research_interests": "To develop advanced theory, algorithms and numerically efficient codes to explain various properties, structure and behavior of materials. Recent interests involve:\n- Magnetism and Spintronics\n- Understanding exotic phases of Superconductors and Topological Insulators\n- Effect of variable relaxation time on thermoelectric properties of materials\n- Electronic and Optical properties of solar harvesting materials\n- Electro and Photocatalysis\n- Electronic Structure and Thermodynamics of Alloys: Transition metals, Binary and Ternary Alloys\n- Long-range, Partial and Short-Range Ordering in Alloys\n- Vibrational properties of intermetallic and disordered materials: Phonon dispersion, vibrational entropy, short-range ordering\n- Response functions in materials with defects: Electrical conductivity, Electronic and Lattice thermal conductivity",
+      "publications": [
+        "1. Sibimol Luke, Manjunath Chatti, Asha Yadav,........ Aswani Yella, Aftab Alam* and Alexandr N. Simonov Mixed metal-antimony oxide nanocomposites : low pH water oxidation electrocatalysts with outstanding durability at ambient and elevated temperatures J. Mater. Chem. A 9, 27468 (2021)",
+        "2. Jiban Kangsabanik, H. Borkar, Bhawna, M. S. Siddiqui, M. Aslam and Aftab Alam* Origin of High Non-radiative Recombination and Relevant Optoelectronic Properties of Ba2Bi_1+xNb1-xO6: Candidate for Photo(electro)catalysis and Photovoltaic Application [Featured in \"Hot Topic: Photocatalysis\" Section of Wiley] Advanced Optical Materials 2000901, 1-10 (2020)",
+        "3. C K Barman. Prashant Singh, D D Johnson and Aftab Alam* Revealing the nature of antiferro-quadrupolar ordering in cerium hexaboride CeB_6 Phys. Rev. Lett 122, 076401 (2019)",
+        "4. Jiban Kangsabanik, Vipinraj Sugathan, Anuradha Yadav, Aswani Yella and Aftab Alam* Double Perovskites overtaking the single perovskites: A set of new solar harvesting materials with much higher stability and efficiency Phys. Rev. Materials 2, 055401 (2018)",
+        "5. Vikram, Jiban Kangsabanik, Enamullah and Aftab Alam* Bismuth based Half Heusler Alloys with giant thermoelectric figure of merit J. of Mater. Chem. A 5, 6131-6139 (2017)",
+        "6. Akash Kumar, K. R. Balasubramaniam, Jiban Kangsabanik, Vikram, and Aftab Alam* Crystal structure, stability and optoelectronic properties of the organic-inorganic wide-band-gap perovskite CH3NH3BaI3: Candidate for transparent conductor applications Phys. Rev. B 94, 180105 (Rapid) (2016)",
+        "7. Lakhan Bainsla, A. I. Mallick, Aftab Alam, K. G. Sureshet al. Spin gapless semiconducting behavior in equiatomic quaternary CoFeMnSi Heusler alloy Phys. Rev. B 91, 104408 (2015).",
+        "8. R K Chouhan, Aftab Alam*, S Ghosh and A Mookerjee Interplay of force constants in the lattice dynamics of disordered alloys: An ab-initio study Phys. Rev. B 89, 060201 (Rapid) (2014).",
+        "9. Aftab Alam, M Khan, R W McCallum and D. D. Johnson Site-preference and valency for rare-earth sites in (R-Ce)2Fe14B magnets Appl. Phys. Lett. 102, 042402 (2013)",
+        "10. M G Kim, Aftab Alam et al., Effects of transition metal substitutions on the incommensurability and spin fluctuations in BaFe2As2 by elastic and inelastic neutron scattering Phys. Rev. Lett. 109, 167003 (2012)",
+        "11. Aftab Alam and D D Johnson Chemically Mediated Quantum criticality in NbFe2 Phys. Rev. Lett. 107, 206401 (2011)."
+      ],
+      "other_details": {
+        "group_webpage": "Group Webpage",
+        "google_scholar": "Google Scholar Link",
+        "area": "Condensed Matter Theory"
+      }
+    },
+    {
+      "source": "IIT Bombay Physics Department Website (Partial)",
+      "metadata": {
+        "department": "Physics",
+        "institution": "IIT Bombay"
+      },
+      "faculty": [
+        {
+          "name": "M. Aslam",
+          "title": "Professor",
+          "email": "aslam@phy.iitb.ac.in",
+          "phone": "+91-22-25767585",
+          "office_location": null,
+          "research_interests": [
+            "Oxides and other earth abundant compounds (CZTS) for photovoltaic applications",
+            "Graphene and graphene like semiconductors for water splitting, photosensing and energy storage applications",
+            "Organic perovskites: Nanoparticle Fabrication, stabilization and thin film formalism",
+            "Magnetic nanoparticles: MRI imaging and GMR applications"
+          ],
+          "publications": [
+            {
+              "source": "Google Scholar",
+              "url": null
+            }
+          ],
+          "other_details": [
+            "FB weblinks for current research activities and news",
+            "Condensed Matter Experiments"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "IIT Bombay Physics Department Website (Specific Faculty Page)",
+      "metadata": {
+        "department": "Physics",
+        "institution": "IIT Bombay"
+      },
+      "faculty_members": [
+        {
+          "name": "Soumya Bera",
+          "title": "Associate Professor",
+          "email": "soumya.bera@iitb.ac.in",
+          "phone": "+91-22-2576-9378",
+          "office_location": "210",
+          "website": "Group Website",
+          "research_interests": [
+            "Theoretical Condensed Matter Physics",
+            "Quantum simulation of novel phases of matter",
+            "Interplay of topology, disorder, and interactions",
+            "Quantum information",
+            "Non-equilibrium dynamics",
+            "Quantum phase transitions",
+            "Quantum criticality",
+            "Topological phases",
+            "Quantum Hall physics",
+            "Many-body localization"
+          ],
+          "publications": [
+            {
+              "source": "Google Scholar",
+              "url": null
+            },
+            {
+              "source": "ArXiv preprint server",
+              "url": null
+            }
+          ],
+          "other_details": {
+            "postdoc_opening": true,
+            "summer_project_opening": false,
+            "research_group": "Condensed Matter Theory"
+          }
+        }
+      ]
+    },
+    {
+      "documents": [
+        {
+          "id": "iitb_physics_varun_bhalerao",
+          "text": "Varun Bhalerao is an Associate Professor in the Physics Department at IIT Bombay. His contact information includes phone number +91 22 2576 9379, extension 9379, and email varunb@iitb.ac.in.  His office is located in room 229-I (Opposite the mini seminar room).  His research interests encompass Astrophysics, specifically electromagnetic counterparts of gravitational wave sources, astrophysical instrumentation (X-ray telescopes), X-ray and optical studies of transient sources, and neutron stars and neutron star binaries.  For a complete list of publications, refer to ADS, arXiv, ORCID, or Google Scholar. He is associated with the Astronomy, Cosmology and Gravity (ACG) research group.",
+          "metadata": {
+            "name": "Varun Bhalerao",
+            "title": "Associate Professor",
+            "department": "Physics",
+            "institution": "IIT Bombay",
+            "email": "varunb@iitb.ac.in",
+            "phone": "+91 22 2576 9379",
+            "office_location": "229-I (Opp mini seminar room)",
+            "research_interests": [
+              "Astrophysics",
+              "Electromagnetic counterparts of gravitational wave sources",
+              "Astrophysical instrumentation (X-ray telescopes)",
+              "X-ray and optical studies of transient sources",
+              "Neutron stars and neutron star binaries"
+            ],
+            "publications": [
+              {
+                "source": "ADS",
+                "note": "Most complete"
+              },
+              {
+                "source": "arXiv"
+              },
+              {
+                "source": "ORCID"
+              },
+              {
+                "source": "Google Scholar"
+              }
+            ],
+            "research_group": "Astronomy, Cosmology and Gravity (ACG)",
+            "website": "Group website"
+          }
+        }
+      ]
     }
   ]
 }
