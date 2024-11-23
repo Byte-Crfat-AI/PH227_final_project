@@ -1,0 +1,7 @@
+{
+  "faculty": [
+    {
+      "error": "JSON decoding failed: Expecting ',' delimiter: line 7 column 43 (char 138)"
+    }
+  ]
+}
