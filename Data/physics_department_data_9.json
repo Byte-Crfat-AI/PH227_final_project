@@ -1,0 +1,428 @@
+{
+  "research": [
+    {
+      "research_areas": [
+        {
+          "area": "Astronomy, Cosmology and Gravity (ACG)",
+          "description": "Research encompasses observational astrophysics, gravitational wave physics and astronomy, dark matter studies, and early-universe cosmology.",
+          "key_researchers": [
+            {
+              "name": "Varun Bhalerao",
+              "role": "Observational astrophysics and instrumentation, transient studies, GROWTH-India project, AstroSat CZTI"
+            },
+            {
+              "name": "Archana Pai",
+              "role": "Gravitational wave physics and astronomy, detection algorithms, LIGO Scientific Collaboration"
+            },
+            {
+              "name": "Vikram Rentala",
+              "role": "Particle astrophysicist, dark matter research (self-interactions, annihilation signals, direct detection, collider searches)"
+            },
+            {
+              "name": "Shankaranarayanan",
+              "role": "Gravitational physics and quantum field theory, early-universe cosmology, black hole physics, magnetogenesis"
+            }
+          ],
+          "ongoing_projects": [
+            {
+              "name": "GROWTH-India",
+              "description": "Development of a 0.7m autonomous optical telescope at Hanle, Ladakh for transient studies.",
+              "link": "Not Available"
+            },
+            {
+              "name": "AstroSat CZTI Transient Studies",
+              "description": "Detection and study of transients using the Cadmium Zinc Telluride Imager on AstroSat.",
+              "link": "Not Available"
+            },
+            {
+              "name": "LIGO Scientific Collaboration",
+              "description": "Development of detection algorithms for gravitational waves and participation in the search for intermediate mass black hole binaries.",
+              "link": "Not Available"
+            },
+            {
+              "name": "Dark Matter Research",
+              "description": "Exploring various aspects of dark matter including self-interactions, annihilation signals, direct detection, and collider searches.",
+              "link": "Not Available"
+            },
+            {
+              "name": "Early Universe Cosmology Research",
+              "description": "Investigation of topics such as the origin of magnetic fields in galaxies, using cosmic microwave background to probe new physics, and black hole physics.",
+              "link": "Not Available"
+            }
+          ],
+          "additional_details": {
+            "facilities": [
+              "0.7m autonomous optical telescope at Hanle, Ladakh",
+              "AstroSat",
+              "LIGO",
+              "Virgo"
+            ],
+            "collaborations": [
+              "GROWTH-India",
+              "LIGO Scientific Collaboration"
+            ],
+            "achievements": "Not Available"
+          }
+        }
+      ]
+    },
+    {
+      "research_areas": [
+        {
+          "area": "Quantum Information Theory",
+          "description": "Studies the universe from a 'software' perspective, analyzing the information theoretic content of physical processes, combined with a 'hardware' perspective of fundamental laws. Focuses on physical problems including quantum technologies, light-matter interactions, and quantum networks.",
+          "key_researchers": [
+            {
+              "name": "Sai Vinjanampathy",
+              "role": "Faculty (Group Leader)"
+            },
+            {
+              "name": "Siddhartha Santra",
+              "role": "Faculty (Group Leader)"
+            }
+          ],
+          "ongoing_projects": "Not Available",
+          "additional_details": "Not Available"
+        }
+      ]
+    }
+  ],
+  "staff": [
+    [
+      {
+        "Full Name": "Ashok S. Gonaka",
+        "Designation": "Jr. Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25767551",
+        "Office Location": "201",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Vinayak Govind Bhate",
+        "Designation": "Jr. Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "022-25768506",
+        "Office Location": "201",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Nilesh T. Ghule",
+        "Designation": "Administrative Superintendent",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25767552",
+        "Office Location": "201",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Rekha Kurade",
+        "Designation": "Jr. Attendant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25767551",
+        "Office Location": "201",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Aarakh Rahul",
+        "Designation": "Casual Labour",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25767551",
+        "Office Location": "1st Year Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Vijay S. Salunke",
+        "Designation": "Sr. Project Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-21596595",
+        "Office Location": "201",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "R B Shinde",
+        "Designation": "Multi-Skilled Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25767551",
+        "Office Location": "201",
+        "Additional Details": "Not Available"
+      }
+    ],
+    [
+      {
+        "Full Name": "Amol Y. Kurdhundkar",
+        "Designation": "Jr. Lab Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764559",
+        "Office Location": "Gen. Physics Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Mangesh D. Sawant",
+        "Designation": "Sr. Mechanic",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-21596541",
+        "Office Location": "Workshop",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Prajakta A. Bhoir",
+        "Designation": "Senior Technical Superintendent",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764564",
+        "Office Location": "Nuclear Physics Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Dharmesh V. Dorik",
+        "Designation": "Jr. Mechanic",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764594",
+        "Office Location": "011",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Swapnali G. Gharat",
+        "Designation": "Senior Technical Superintendent",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764590",
+        "Office Location": "Electronics Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Satish R. Kinikar",
+        "Designation": "Jr. Technical Superintendent",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764552",
+        "Office Location": "Low Temp Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Pradip L. Madake",
+        "Designation": "Jr. Lab Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764590",
+        "Office Location": "Electronics Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Snehal R. Narvekar",
+        "Designation": "Jr. Lab Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764599",
+        "Office Location": "Ist year Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Chandrakant Pandey",
+        "Designation": "Senior Technical Superintendent",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-21596508",
+        "Office Location": "Computer Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Nitin T. Pawar",
+        "Designation": "Technical Officer",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764590",
+        "Office Location": "Electronics Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Ajay Shetake",
+        "Designation": "Jr. Mechanic",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764594",
+        "Office Location": "Workshop",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Pranali P. Shirke",
+        "Designation": "Jr. Lab Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764544",
+        "Office Location": "Laser Optics Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Shripal Singh",
+        "Designation": "Senior Technical Superintendent",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764392",
+        "Office Location": "Nanoscience Lab",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Kiran J. Thakur",
+        "Designation": "Sr. Mechanic",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-21596541",
+        "Office Location": "011",
+        "Additional Details": "Not Available"
+      },
+      {
+        "Full Name": "Vijay V. Wagh",
+        "Designation": "Sr. Lab Assistant",
+        "Email Address": "Not Available",
+        "Phone Number": "+91-22-25764599",
+        "Office Location": "First year Lab",
+        "Additional Details": "Not Available"
+      }
+    ]
+  ],
+  "Research_facilities": [
+    {
+      "Facility Name": "High Resolution X-ray Diffractometer",
+      "Description": "Used for determining the atomic and molecular structure of a crystal, where crystalline atoms cause a beam of incident X-rays to diffract into many specific directions.",
+      "Location": "Thin Film Lab, Room No. 103",
+      "Accessibility": "Not Available",
+      "Additional Details": "Booking procedure: Not Available, Contact: Subhabrata Dhar"
+    },
+    {
+      "Facility Name": "UV-VIS-NIR Spectrophotometer with Reflectance Accessory and Integrating Sphere",
+      "Description": "Measures the absorbance and reflectance of samples across the ultraviolet, visible, and near-infrared regions of the electromagnetic spectrum.",
+      "Location": "Thin Film Lab, Room No. 103",
+      "Accessibility": "Not Available",
+      "Additional Details": "Booking procedure: Not Available, Contact: S.S. Major"
+    },
+    {
+      "Facility Name": "Powder XRD Machine",
+      "Description": "Used for identifying the crystalline phases present in a powder sample and for determining structural properties.",
+      "Location": "Room No. 014, Ground Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Booking procedure: Download Form. Submit on (M/W/F) between 2-5 PM, Contact: A.V. Mahajan"
+    },
+    {
+      "Facility Name": "Physical Property Measurement System/Magnetometer x5",
+      "Description": "A system used to characterize the physical properties of materials, including magnetic properties.",
+      "Location": "Room No. 014, Ground Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: A.V. Mahajan"
+    },
+    {
+      "Facility Name": "High Pressure High Temperature (HPHT) Furnace",
+      "Description": "A furnace capable of reaching high pressures and temperatures for material synthesis and processing.",
+      "Location": "Room No. 014, Ground Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: A.V. Mahajan"
+    },
+    {
+      "Facility Name": "Atomic Force Microscope (Veeco)",
+      "Description": "Used to image surfaces at the nanoscale level by scanning a sharp probe over the sample.",
+      "Location": "Room No. 133, First Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Mohammad Aslam"
+    },
+    {
+      "Facility Name": "Scanning Electron Microscope (JEOL)",
+      "Description": "Uses a focused beam of electrons to create images of a sample, providing high-resolution surface information.",
+      "Location": "Room No. 133, First Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Mohammad Aslam"
+    },
+    {
+      "Facility Name": "UV-Visible NIR Spectrometer (Perkin Elmer)",
+      "Description": "Used to measure the absorbance and transmittance of samples across the ultraviolet, visible, and near-infrared spectral range.",
+      "Location": "Room No. 133, First Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Mohammad Aslam"
+    },
+    {
+      "Facility Name": "Thermal Evaporator",
+      "Description": "Used for depositing thin films of materials by heating a source material in a vacuum.",
+      "Location": "Room No. 133, First Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Mohammad Aslam"
+    },
+    {
+      "Facility Name": "Spin Coater",
+      "Description": "Used to create uniform thin films on flat substrates by spinning the substrate at high speed while dispensing a liquid solution.",
+      "Location": "Room No. 133, First Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Mohammad Aslam"
+    },
+    {
+      "Facility Name": "Optical Microscope",
+      "Description": "Uses visible light and a system of lenses to magnify images of small samples.",
+      "Location": "Room No. 133, First Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Mohammad Aslam"
+    },
+    {
+      "Facility Name": "Liquid Helium Plant (with Recovery System)",
+      "Description": "Produces and recovers liquid helium for cryogenic experiments.",
+      "Location": "Ground Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Kantimay Das Gupta"
+    },
+    {
+      "Facility Name": "Mask Aligner for Sample Size Upto 4 Inches",
+      "Description": "Used for photolithography, a process for creating patterned thin films.",
+      "Location": "Room No. 317, Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Kantimay Das Gupta"
+    },
+    {
+      "Facility Name": "Rapid Thermal Annealer (Upto 750 C)",
+      "Description": "Used for rapid thermal processing of materials, including annealing and oxidation.",
+      "Location": "Room No. 317, Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Kantimay Das Gupta"
+    },
+    {
+      "Facility Name": "Class 10,000 Clean-Room Facility with Approx 350 sqft Floor Area",
+      "Description": "A controlled environment with a low level of pollutants, suitable for fabrication and characterization of sensitive devices.",
+      "Location": "Room No. 317, Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Kantimay Das Gupta"
+    },
+    {
+      "Facility Name": "Thermal Evaporator with 4-Position Turret x 3 (HindHivac)",
+      "Description": "Allows for sequential deposition of different materials without breaking vacuum.",
+      "Location": "Room No. 317, Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Kantimay Das Gupta"
+    },
+    {
+      "Facility Name": "Ultrasonic Wire Bonder (Model TPT HB05)",
+      "Description": "Used to make electrical connections between microchips and other components using ultrasonic energy.",
+      "Location": "Room No. 317, Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Kantimay Das Gupta"
+    },
+    {
+      "Facility Name": "He-3 Cryostat (Base Temperature ~250 mK) with 9T Superconducting Magnet and Sample Rotation Capability (Oxford Instruments)",
+      "Description": "Provides extremely low temperatures and high magnetic fields for studying the behavior of materials at cryogenic temperatures.",
+      "Location": "Room No. 317, Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Kantimay Das Gupta"
+    },
+    {
+      "Facility Name": "Tunable ps Source",
+      "Description": "Generates picosecond laser pulses with adjustable wavelength.",
+      "Location": "Room No., Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Parinda Vasa"
+    },
+    {
+      "Facility Name": "10 fs Ti:Sapphire Laser",
+      "Description": "A femtosecond laser used for ultrafast spectroscopy and other applications.",
+      "Location": "Room No., Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Parinda Vasa"
+    },
+    {
+      "Facility Name": "Closed Cycle Refrigerators x3 (Janis/ CTI Cryogenics)",
+      "Description": "Provide cooling for experiments at cryogenic temperatures without consuming liquid cryogens.",
+      "Location": "Room No., Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Parinda Vasa"
+    },
+    {
+      "Facility Name": "Optical Components (Lenses, Mirrors, Polarizers, Waveplate, Prisms, Gratings etc)",
+      "Description": "A collection of various optical components for building and modifying optical setups.",
+      "Location": "Optics Lab, Third Floor",
+      "Accessibility": "Not Available",
+      "Additional Details": "Contact: Parinda Vasa"
+    }
+  ]
+}

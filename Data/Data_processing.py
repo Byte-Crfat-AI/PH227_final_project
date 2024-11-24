@@ -11,7 +11,7 @@ urls = ['https://www.phy.iitb.ac.in/en/employee-profile/aftab-alam', 'https://ww
 metadata = ['faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'faculty', 'research', 'research', 'research', 'research', 'research', 'research', 'research', 'research', 'staff', 'staff', 'facilities', 'others', 'others', 'others', 'others', 'others', 'others', 'others', 'others', 'others']
 
 # Set the API key for the GenAI library
-gemini.configure(api_key="AIzaSyBkXXtG5XeopoPisjR0LGqFdNcy3F_a8eo")
+gemini.configure(api_key="AIzaSyCTzgU213N2OTNL5_1ZcOymcnTRLwh7IjM")
 
 # Function to process the URL and extract the relevant sections(data) based on the category
 def process_url(url,category):
@@ -135,8 +135,9 @@ def extract_data(urls, metadata):
             if metadata[i] not in major_json:
                 major_json[metadata[i]] = []
             major_json[metadata[i]].append(data)
-        with open('physics_department_data.json', 'w') as f:
+        with open('physics_department_data_11.json', 'w') as f:
             json.dump(major_json, f, indent=2)
+        print(f"Data successfully saved to 'physics_department_data.json'till {i}th URL.")
     print("Data successfully saved to 'physics_department_data.json'.")
     
 # Call the function to extract the data from the URLs and save it to a JSON file

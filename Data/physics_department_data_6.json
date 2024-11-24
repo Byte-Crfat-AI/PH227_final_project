@@ -1,0 +1,497 @@
+{
+  "faculty": [
+    {
+      "faculty": [
+        {
+          "Full Name": "Vikram Rentala",
+          "Email Address": "rentala@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25765551",
+          "Office Location": "Room 240",
+          "Research Interests": "High energy particle physics, dark matter physics, particle astrophysics, and cosmology. Specifically, understanding the nature of electroweak symmetry breaking and its connection to the Higgs boson, and finding the properties of dark matter particles and exploring their interactions.",
+          "Select Recent Publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Website": "Website link not extracted but mentioned in text",
+            "Publications List Link": "Link not extracted but mentioned in the text",
+            "Affiliations": "Astronomy, Cosmology and Gravity (ACG)",
+            "Awards": "Not Available",
+            "Roles": "Associate Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Shankaranarayanan S",
+          "Email Address": "shanki@phy.iitb.ac.in",
+          "Phone Number": "5552",
+          "Office Location": "114",
+          "Research Interests": "Gravity and Cosmology",
+          "Select Recent Publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Group Page": "Gravity and Cosmology Group Page",
+            "Inspire Publication List": "Publication list from INspire",
+            "Research Area": "Astronomy, Cosmology and Gravity (ACG)",
+            "Designation": "Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Anirban Sain",
+          "Email Address": "asain@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767553",
+          "Office Location": "221",
+          "Research Interests": "Soft matter and Bio-physics:\n- Dynamic processes in the Cell (cell division, sporulation, endo- and exocytosis).\n- Membrane mechanics (tubulation, colloidal membrane).\n- Statistical physics of biopolymers, nemetic liquid crysals\nNonequilibrium Statistical Physics:\n- Grain dynamics in driven polycrystals (pressure, shear): MD & Phase field simulations.",
+          "Select Recent Publications": [
+            {
+              "title": "Chiral flows in the separating wall during cell division",
+              "authors": "Vijit Ganguly, Mainak Chatterjee & Anirban Sain",
+              "journal": "J. Chem. Phys.",
+              "volume": "161",
+              "page": "074110",
+              "year": "2024"
+            },
+            {
+              "title": "Directing the Formation of Tunable Superlattice Crystalline Phases from Anisotropic Nanoparticles",
+              "authors": "S. Khawas, S. Bhattacharjee, S. Mukherjee, A. Sain and S. Srivastava",
+              "journal": "Colloids and Surfaces A",
+              "volume": "690",
+              "page": "133762",
+              "year": "2024"
+            },
+            {
+              "title": "A human curvature sensitive septin octamer complex drives membrane deformation with a specific mesh-like organization",
+              "authors": "K. Nakazawa, G.Kumar, B.Chauvin, Aurelie Di Cicco, L.Pellegrino, M. Trichet, B. Hajj, J.Cabral, A. Sain, S.Mangenot and A. Bertin",
+              "journal": "J. Cell Sci",
+              "volume": "136",
+              "page": "jcs260813",
+              "year": "2023"
+            },
+            {
+              "title": "Temperature-dependent Self assembly of biofilaments during red blood cell sickling",
+              "authors": "A. Behera, O. Sharma, D. Paul, and A. Sain",
+              "journal": "J. Chem. Phys.",
+              "volume": "157",
+              "page": "014105",
+              "year": "2022"
+            },
+            {
+              "title": "Dynamic surface patterns on cells",
+              "authors": "Mainak Chatterjee and A. Sain",
+              "journal": "J. Chem. Phys",
+              "volume": "156",
+              "page": "084117",
+              "year": "2022"
+            }
+          ],
+          "Additional Details": {
+            "Education": "Integrated MSc: IIT Kanpur (1988-93)\nPhD: IISc Bangalore (1993-98)",
+            "Postdoctoral Positions": "Simon Fraser Univ. Canada (1999-2000)\nWaterloo Univ., Canada(2001-2002)\nMcGill Univ., Canada (2002-2003)",
+            "Industry Experience": "Hindustan Lever Research, Mumbai (2001)",
+            "Current PhD Students": "Sabyasachi Mukherjee, Vijit Ganguly",
+            "Former PhD Students": "Biplab Ghosh, Santidan Biswas, Surya Ghosh, Kulveer Singh, Gaurav Kumar, Tanmoy Sarkar, Vidya Menon, Sk Ashif Akram, Mainak Chatterjee, Arabinda Behera",
+            "CV": "Available (Inferred from the text data - consider adding a link if available separately)"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Siddhartha Santra",
+          "Email Address": "santra@iitb.ac.in",
+          "Phone Number": "+91-22-25767562",
+          "Office Location": "234",
+          "Research Interests": [
+            "Quantum networks",
+            "Adiabatic quantum optimisation",
+            "Quantum Information Theory"
+          ],
+          "Select Recent Publications": [
+            {
+              "Title": "Quantum networking with short-range entanglement assistance",
+              "Authors": "S. Santra, V. S. Malinovsky",
+              "Journal": "Physical Review A 103, 012407 (2021)"
+            },
+            {
+              "Title": "Ising formulation of associative memory models and quantum annealing recall",
+              "Authors": "S. Santra, O. Shehab, R. Balu",
+              "Journal": "Physical Review A 96, 062330 (2017)"
+            },
+            {
+              "Title": "MAX 2-SAT with up to 108 qubits",
+              "Authors": "S. Santra, G. Quiroz, G. V. Steeg, D. A. Lidar",
+              "Journal": "New Journal of Physics 16, 45006 (2014)"
+            }
+          ],
+          "Additional Details": {
+            "Education Qualification": "PhD: University of Southern California, Los Angeles, 2014\nPostdoc: US Army Research Laboratory, Adelphi, Maryland, USA 2014-2021\nStanford University, California, USA, 2015-2016",
+            "Courses Teaching/Taught": "Mathematical Physics -1 (PH 407)\nQuantum Mechanics - 1 (PH 204)",
+            "Google Scholar Link": "Not Available",
+            "Personal Website": "Not Available"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Pradeep Sarin",
+          "Email Address": "pradeepsarin@iitb.ac.in",
+          "Phone Number": "+91-22-25767591",
+          "Office Location": "307",
+          "Research Interests": "The physics of elementary particles, developing particle detectors for high energy physics experiments, semiconductor detectors, high energy experiments",
+          "Select Recent Publications": [
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Website": "Not Available",
+            "Affiliations": [
+              "CMS experiment at CERN\u2019s Large Hadron Collider (LHC)",
+              "COMET experiment at J-PARC in Japan"
+            ],
+            "Projects": [
+              "Search for supersymmetry, dark matter, and extra dimensions at LHC",
+              "Search for rare lepton flavor violating muon-to-electron conversion at COMET"
+            ],
+            "Funding": [
+              "DST",
+              "Indo-JSPS cooperative science program"
+            ],
+            "Joint PhD Program": "Osaka University, Japan",
+            "Role": "Associate Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Manibrata Sen",
+          "Email Address": "manibrata@iitb.ac.in",
+          "Phone Number": "Not Available",
+          "Office Location": "-115 C",
+          "Research Interests": "Theoretical astroparticle physics: Neutrinos, Dark Matter, Early Universe Cosmology, Compact Objects",
+          "Select Recent Publications": [
+            {
+              "Title": "Fast neutrino flavour conversions near the supernova core with realistic flavour-dependent angular distributions",
+              "Journal": "JCAP 02 (2017) 019",
+              "Authors": "Basudeb Dasgupta, Alessandro Mirizzi, and Manibrata Sen",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Collisional triggering of fast flavor conversions of supernova neutrinos",
+              "Journal": "Phys.Rev.Lett. 122 (2019) 9, 091101",
+              "Authors": "Francesco Capozzi, Basudeb Dasgupta, Alessandro Mirizzi, Manibrata Sen and Gunter Sigl",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "The Dodelson-Widrow Mechanism In the Presence of Self-Interacting Neutrinos",
+              "Journal": "Phys.Rev.Lett. 124 (2020) 8, 081802",
+              "Authors": "Andr\u00e9 de Gouv\u00eaa, Manibrata Sen, Walter Tangarife, and Yue Zhang",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Intimate Relationship between Sterile Neutrino Dark Matter and \u2206Neff",
+              "Journal": "Phys.Rev.Lett. 127 (2021) 4, 041101",
+              "Authors": "Kevin J. Kelly, Manibrata Sen and Yue Zhang",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Fundamental physics with the diffuse supernova background neutrinos",
+              "Journal": "Phys.Rev.D 102 (2020) 123012",
+              "Authors": "Andr\u00e9 de Gouv\u00eaa, Ivan Martinez-Soler, Yuber F Perez-Gonzalez and Manibrata Sen",
+              "Link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Webpage": "Available (mentioned in text, but URL not provided)",
+            "CV": "Available (mentioned in text, but URL not provided)",
+            "Inspire-HEP": "Available (mentioned as source for publications)",
+            "arXiv": "Available (mentioned as source for publications)",
+            "Affiliations": "High Energy Theory",
+            "Awards": "Not Available",
+            "Roles": "Assistant Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "M Senthil Kumar",
+          "Email Address": "senthil@iitb.ac.in",
+          "Phone Number": "+91-22-25767581",
+          "Office Location": "Not Available",
+          "Research Interests": "Magnetic thin films and multilayers; Nanostructured magnetic thin films; Magnetic-Semiconductor multilayers",
+          "Select Recent Publications": "Not Available",
+          "Additional Details": {
+            "Designation": "Professor",
+            "Area": "Condensed Matter Experiments"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Alok Shukla",
+          "Email Address": "shukla@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767576",
+          "Office Location": "221",
+          "Research Interests": "Theory of the electronic structure of atoms, molecules, clusters, and solids; Condensed Matter Theory",
+          "Recent Publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Personal Webpage": "Personal webpage",
+            "Google Scholar": "Google Scholar Link",
+            "Other": "Developed computer codes for computational methodology;  Ph. D. in theoretical atomic many-body physics; Post-doctoral experience at Idaho National Engineering Laboratory, Max-Planck Institutes (Stuttgart and Dresden), and the University of Arizona"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "P. P. Singh",
+          "Email Address": "ppsingh@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767593",
+          "Office Location": "Not Available",
+          "Research Interests": "Condensed Matter Theory",
+          "Select Recent Publications": "Not Available",
+          "Additional Details": {
+            "Designation": "Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Sunita Srivastava",
+          "Email Address": "sunita.srivastava@phy.iitb.ac.in",
+          "Phone Number": "+91 22-2576-7572",
+          "Office Location": "203",
+          "Research Interests": "Soft Matter, Nanomaterials, Colloids and Glassy Materials, Self Assembly, Surfaces and interfaces, Lipid Nanoparticle interactions, X-ray Scattering (SAXS, GISAXS, XPCS), Bulk and Interfacial Rheology",
+          "Select Recent Publications": [
+            {
+              "title": "Microstructure of colloid-polymer mixtures containing charged colloidal disks and weakly-adsorbing polymers",
+              "link": "Not Available"
+            },
+            {
+              "title": "Multiple dynamic regimes in colloid-polymer dispersions: New insight using X-ray photon correlation spectroscopy",
+              "link": "Not Available"
+            },
+            {
+              "title": "Tunable Nanoparticle Arrays at Charged Interfaces",
+              "link": "Not Available"
+            },
+            {
+              "title": "Two-Dimensional DNA-Programmable Assembly of Nanoparticles at Liquid Interfaces",
+              "link": "Not Available"
+            },
+            {
+              "title": "Super-compressible DNA Nanoparticle Lattices",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Title": "Associate Professor",
+            "Research Homepage": "Not Available",
+            "Google Scholar": "Complete List of Publications@ Google Scholar",
+            "Area": "Soft Matter Physics"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "K. G. Suresh",
+          "Email Address": "suresh@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767559",
+          "Office Location": "Not Available",
+          "Research Interests": "Condensed Matter Experiments",
+          "Select Recent Publications": "Not Available",
+          "Additional Details": {
+            "Designation": "Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "S. Umasankar",
+          "Email Address": "uma@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767557",
+          "Office Location": "Room 240",
+          "Research Interests": "Neutrino Physics and Flavour Physics, High Energy Theory",
+          "Select Recent Publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "iNSPIRE-HEP link": "Not Available"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Raghava Varma",
+          "Email Address": "varma@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767582",
+          "Office Location": "Not Available",
+          "Research Interests": "High Energy Experiments",
+          "Select Recent Publications": "Not Available",
+          "Additional Details": {
+            "Designation": "Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Parinda Vasa",
+          "Email Address": "parinda@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767556",
+          "Office Location": "304-A",
+          "Research Interests": "Experimental nano-photonics, plasmonics, spectroscopy of nanostructured materials.",
+          "Select Recent Publications": [
+            {
+              "Title": "White light spectral interferometry for determining inhomogeneous broadening in solutions and colloids",
+              "Journal": "ACS Nanoscience Au",
+              "Volume": "2",
+              "Page": "486",
+              "Year": "2022",
+              "Note": "Invited article"
+            },
+            {
+              "Title": "Topology-changing broadband active metamaterials enabled by closable nanotrenches",
+              "Journal": "Nano Letters",
+              "Volume": "21",
+              "Page": "4202",
+              "Year": "2021"
+            },
+            {
+              "Title": "Exciton-surface plasmon polariton interactions",
+              "Journal": "Advances in Physics X",
+              "Volume": "5",
+              "Page": "1749884",
+              "Year": "2020",
+              "Note": "Invited review article"
+            },
+            {
+              "Title": "Charge induced lattice compression in monolayer MoS2",
+              "Journal": "Journal of Physical Chemistry C",
+              "Volume": "123",
+              "Page": "17943",
+              "Year": "2019"
+            },
+            {
+              "Title": "Strong light-matter interaction",
+              "Journal": "Encyclopedia of Applied Physics",
+              "Publisher": "Wiley Online Library",
+              "Year": "2019",
+              "Note": "Invited tutorial article"
+            }
+          ],
+          "Additional Details": {
+            "Education Qualification": "PhD (2005, TIFR, Mumbai, India), Post-doc (2006-2011, Carl von Ossietzky University, Oldenburg, Germany)",
+            "Courses Teaching/Taught": "Light-matter interaction, Quantum physics, Optics, Ultrafast Sciences, Nanomaterials and devices",
+            "Research Group": "Photonics Experiments"
+          }
+        }
+      ]
+    }
+  ]
+}

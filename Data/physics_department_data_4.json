@@ -1,0 +1,142 @@
+{
+  "faculty": [
+    {
+      "faculty": [
+        {
+          "Full Name": "Basanta Kumar Nandi",
+          "Email Address": "basanta@iitb.ac.in",
+          "Phone Number": "+91-22-25767560",
+          "Office Location": "207-A",
+          "Research Interests": "Multiplarticle production, Fluctuation and Heavy Flavor in ultra-relativistic heavy-ion collisions",
+          "Select Recent Publications": [
+            {
+              "title": "Net-Charge Fluctuations in Pb-Pb collisions at $\\sqrt{s_{NN}}$ = 2.76 TeV",
+              "authors": "ALICE Collaboration",
+              "journal": "Phys. Rev. Lett.",
+              "volume": "110",
+              "page": "152301",
+              "year": "2013",
+              "link": "Not Available"
+            },
+            {
+              "title": "Charged Particle, Photon Multiplicity and Transverse Energy production in High Energy Heavy-Ion Collision",
+              "authors": "R. Sahoo, A.N. Mishra, N.K. Behera and B.K. Nandi",
+              "journal": "Advances in High Energy Physics",
+              "volume": "2015",
+              "page": "Article ID 612390",
+              "year": "2015",
+              "link": "Not Available"
+            },
+            {
+              "title": "Inclusive Photon Production at forward rapidities in proton-proton collisions at sqrt(s) = 0.9, 2.76 and 7 TeV",
+              "authors": "ALICE Collaboration",
+              "journal": "EPJC",
+              "volume": "75",
+              "year": "2015",
+              "page": "146",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Area": "High Energy Experiments",
+            "Awards": "Not Available",
+            "Affiliations": "Not Available",
+            "Personal Website": "Not Available",
+            "Roles": "Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Amitabha Nandi",
+          "Email Address": "amitabha@phy.iitb.ac.in",
+          "Phone Number": "Not Available",
+          "Office Location": "229-G",
+          "Research Interests": "Physics of Living Matter, Active and passive transport inside cells, Physics of morphogenesis, Collective phenomena in biological active matter",
+          "Select Recent Publications": [
+            {
+              "Title": "Run-and-Tumble Like Motion of a Camphor-Infused Marangoni Swimmer",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Optimizing search processes in systems with state toggling: exact condition delimiting the efficacy of stochastic resetting strategy",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "UNC-104 transport properties are robust and independent of changes in its cargo binding",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Percolation transitions in the binary mixture of active Brownian particles with different softness",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Pathogenic aggregates alter actin organization and cellular viscosity resulting in stalled clathrin mediated endocytosis",
+              "Link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Affiliations": "Physics of Living Matter Group",
+            "Personal Website": "Not Available",
+            "Awards": "Not Available",
+            "Roles": "Associate Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Archana Pai",
+          "Email Address": "archana@phy.iitb.ac.in",
+          "Phone Number": "+91-22-2576-9380",
+          "Office Location": "114, First Floor, Physics Department",
+          "Research Interests": "Astrophysical gravitational-wave transient search in LIGO-Virgo network, Parameter estimation of compact binaries with black-holes, Test of General Relativity with gravitational-wave observations, Multimessenger astronomy.",
+          "Select Recent Publications": [
+            {
+              "Title": "Utilizing Gaussian mixture modelling in all-sky search for short duration gravitational wave burst",
+              "Link": null,
+              "Authors": "Dixeena Lopez, V. Gayathri, Archana Pai, Ik Siong Heng, C. Messenger, S. K. Gupta",
+              "Journal": "Phys. Rev. D 105, 063024 (2022)"
+            },
+            {
+              "Title": "Effective chirp mass in the inspiral frequency evolution of the non-spinning eccentric compact binary",
+              "Link": null,
+              "Authors": "Nirban Bose and Archana Pai",
+              "Journal": "Phys. Rev. D. 104, 124021 (2021)"
+            },
+            {
+              "Title": "Science Case of LIGO-India",
+              "Link": null,
+              "Authors": "M. Saleem, J. Rana, V. Gayathri, A. Vijaykumar, S. Goyal, S. Sachdev, J. Suresh, S. Sudhagar, A. Mukherjee, G. Gaur, B. Sathyaprakash, A. Pai, R. Adhikari, P. Ajith, S. bose",
+              "Journal": "Class. Quan. Grav. 39, 2, (2021)"
+            },
+            {
+              "Title": "Optimized PyCBC search for gravitational waves from intermediate-mass black hole mergers",
+              "Link": null,
+              "Authors": "K. Chandra, V. Villa-Ortega, T. Dent, C. Mclsaac, Archana Pai, I. W. Harry, G. S. Cabourne Davis, and K. Soni",
+              "Journal": "Phys. Rev. D 104, 042004 (2021)"
+            },
+            {
+              "Title": "Chirp mass based glitch identification in the long duration transient",
+              "Link": null,
+              "Authors": "N. Bose, Archana Pai, K. Chandra and V. Gayathri",
+              "Journal": "Phys. Rev. D 102, 084034 (2020)"
+            }
+          ],
+          "Additional Details": {
+            "Affiliations": "LIGO Scientific Collaboration",
+            "Publication Links": [
+              "Google Scholar",
+              "INSPIRE HEP Search"
+            ],
+            "Research Group": "Gravitational Wave Physics group",
+            "Area": "Astronomy, Cosmology and Gravity (ACG)"
+          }
+        }
+      ]
+    }
+  ]
+}

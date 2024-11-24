@@ -1,0 +1,185 @@
+{
+  "faculty": [
+    {
+      "faculty": [
+        {
+          "Full Name": "Pramod Kumar",
+          "Email Address": "pramod_k@iitb.ac.in",
+          "Phone Number": "+91-22-25767571",
+          "Office Location": "315, Department of Physics",
+          "Research Interests": "Nanostructure based haptics sensors, gas sensors: Study of charge carrier transport properties.\nIntegration of artificial intelligence (AI) in various sensors: Analyzing Sensor response with the help of AI, machine learning algorithms, and artificial neural networks.\nOrganic/inorganic field effect transistor and diodes: High band gap semiconductors, organic semiconductors, charge carrier transport study, and effect of trap sites. Effect of molecular arrangement on charge carrier transport and traps.\nDevice trap density measurement with the help of capacitance measurements.\nEnergy generation and storage devices: Study the effect of molecular and atomic arrangement on the performance of energy storage devices.\nPiezoelectric sensors: Study various piezoelectric materials in thin films and nano-structured forms.",
+          "Select Recent Publications": [
+            {
+              "title": "Seedless Hydrothermal Growth of ZnO Nanorods as a Promising Route for Flexible Tactile Sensors",
+              "link": "Not Available"
+            },
+            {
+              "title": "Hydrothermally Grown ZnO Nanorods as Promising Materials for Low Cost Electronic Skin",
+              "link": "Not Available"
+            },
+            {
+              "title": "Carrier-induced Hopping to Band conduction in pentacene",
+              "link": "Not Available"
+            },
+            {
+              "title": "Charge transport mechanism in copper phthalocyanine thin films with and without traps",
+              "link": "Not Available"
+            },
+            {
+              "title": "Mixed Phases as a Route to Self-passivation: The Effect of \u03c0-Stacking Backbone on the Physical and Electrical Properties of Naphthalenediimide Derivatives",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Position": "Assistant Professor",
+            "Group Page": "Not Available",
+            "Area": "Condensed Matter Experiments"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Nitin Kumar",
+          "Email Address": "nkumar@iitb.ac.in",
+          "Phone Number": "+91-22-2576 5553",
+          "Office Location": "2nd floor, 229-J",
+          "Research Interests": "Experimental Active Matter, Living Matter, Soft Condensed Matter, Statistical Physics, Biological Physics",
+          "Select Recent Publications": [
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Position": "Assistant Professor",
+            "Lab Web Page": "Not Available",
+            "Google Scholar": "google scholar",
+            "Seeking Students/Postdocs": true,
+            "Area": "Soft Matter Physics"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Anshuman Kumar",
+          "Email Address": "anshuman.kumar@iitb.ac.in",
+          "Phone Number": "+91-22-2576-7584",
+          "Office Location": "304 D",
+          "Research Interests": "Experimental and theoretical aspects of Nanophotonics and 2D materials.",
+          "Select Recent Publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Title": "Associate Professor",
+            "Group Webpage": "Available (link needs extracting from original HTML)",
+            "CV Link": "Available (link needs extracting from original HTML)",
+            "Area": "Condensed Matter Experiments"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Tapanendu Kundu",
+          "Email Address": "tkundu@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767583",
+          "Office Location": "307",
+          "Research Interests": "Photonics and Optoelectronics development for optical sensing applications, Laser Spectroscopy, Plasmonics, Laser fundamentals, Light-Matter interaction phenomena, Optical MEMS.",
+          "Select Recent Publications": [
+            {
+              "Title": "Photoresponse of CVD grown crystalline quantum dot-embedded covalent organic framework thin film",
+              "Journal": "RSC Advances",
+              "Year": 2023,
+              "Authors": "Neha Chaki Roy and Tapanendu Kundu"
+            },
+            {
+              "Title": "Photoresponse of an off-stoichiometry thiolene\u2013epoxy (OSTE+) polymer",
+              "Journal": "Journal of Materials Chemistry C",
+              "Year": 2022,
+              "Authors": "Sonatan Das, Akanksha Singh, V Ramgopal Rao and Tapanendu Kundu"
+            },
+            {
+              "Title": "Detection of the chilli leaf curl virus using an attenuated total reflection-mediated localized surface-plasmon-resonance-based optical platform",
+              "Journal": "ACS Omega",
+              "Year": 2021,
+              "Authors": "Sonatan Das, Dilip Kumar Agarwal, Bikash Mandal, V Ramgopal Rao and Tapanendu Kundu"
+            },
+            {
+              "Title": "Spatio-temporal Analysis of the Electric Field-Induced Solid-State Reduction Dynamics of Graphene Oxide Thin Films for Controlled Band-Gap Modulation",
+              "Journal": "The Journal of Physical Chemistry C",
+              "Year": 2020,
+              "Authors": "Neetu Prasad, Shubham Tanwar, Soham Mukhopadhyay and Tapanendu Kundu"
+            },
+            {
+              "Title": "Polymer-based MEMS photodetector with spectral response in UV-vis-NIR and mid-IR region",
+              "Journal": "Journal of Lightwave Technology",
+              "Year": 2015,
+              "Authors": "Sangita Chaki Roy, Tapanendu Kundu, V Ramgopal Rao"
+            }
+          ],
+          "Additional Details": {
+            "Education Qualification": "PhD. - Indian Association for the Cultivation of Science, Calcutta (1991), Post Doctoral work on Two-Photon Laser spectroscopy from Laser Spectroscopy Laboratory, Department of Chemistry, Rutgers University, New Jersey, USA (1991-94)",
+            "Courses Teaching/Taught": "PH 405 Electronics, PH 515 Introduction to Atomic and Molecular Physics, EP 226 Waves & Oscillations & Thermodynamics (Optics), PH 512 Physics Lab (Optics and Spectroscopy)",
+            "Developed Devices/Instruments": [
+              {
+                "Name": "geo-BHUMI",
+                "Working Area": "Soil Temperature and Microclimates measurement, i.e., Nitrogen (N), phosphorus (P) and potassium (K), including Air Humidity and Air Temperature."
+              },
+              {
+                "Name": "Fiber optics-based point-of-care (POC) device for detecting water-borne Escherichia coli (E. coli).",
+                "Working Area": "This device was developed for Indian Navy personnel to monitor the drinking water quality that reduces major water-borne infections."
+              }
+            ],
+            "Google Scholar Link": "Not Available"
+          }
+        }
+      ]
+    }
+    {
+      "faculty": [
+        {
+          "full_name": "Avinash V. Mahajan",
+          "email_address": "mahajan@phy.iitb.ac.in",
+          "phone_number": "+91-22-25767573",
+          "office_location": "Not Available",
+          "research_interests": "Condensed Matter Experiments",
+          "recent_publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "additional_details": {
+            "awards": "Not Available",
+            "affiliations": "Not Available",
+            "roles": "Professor"
+          }
+        }
+      ]
+    }
+  ]
+}

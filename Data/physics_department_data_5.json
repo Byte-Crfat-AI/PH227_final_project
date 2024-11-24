@@ -1,0 +1,158 @@
+{
+  "faculty": [
+    {
+      "faculty": [
+        {
+          "Full Name": "Hridis Kumar Pal",
+          "Email Address": "hridis.pal@iitb.ac.in",
+          "Phone Number": "+91-22-25767561",
+          "Office Location": "217 Physics",
+          "Research Interests": "Theoretical Condensed Matter Physics. Novel effects arising from topology, interparticle interactions, or both. Exotic phases and unconventional responses to external fields in 2D moir\u00e9 systems (e.g., twisted bilayer graphene), topological semimetals (e.g., Weyl semimetals), correlated systems (e.g., Kondo insulator SmB6), and superconducting heterostructures (e.g., ferromagnetic Josephson junctions).",
+          "Select Recent Publications": [
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            },
+            {
+              "Title": "Not Available",
+              "Link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Title": "Associate Professor",
+            "Personal Website": "Available (link not extracted from provided text)",
+            "Affiliations": "Condensed Matter Theory",
+            "Note": "No openings for project/internship for external students."
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Punit Parmananda",
+          "Email Address": "punit@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767595",
+          "Office Location": "209",
+          "Research Interests": [
+            "Experimental Nonlinear Dynamics",
+            "Soft Matter Physics"
+          ],
+          "Select Recent Publications": "Not Available",
+          "Additional Details": {
+            "Website": "Website",
+            "Google Scholar Link": "Google Scholar Link"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Sumiran Pujari",
+          "Email Address": "sumiran@phy.iitb.ac.in",
+          "Phone Number": "(+91) 22-2576-9376",
+          "Office Location": "221 Physics",
+          "Research Interests": "Condensed Matter Theory, Quantum Magnetism, Algorithms",
+          "Select Recent Publications": [
+            {
+              "Title": "A general theorem on extensive ground state entropy in spin-1/2 models",
+              "Link": "arXiv:2407.06236"
+            },
+            {
+              "Title": "A class of exactly solvable Hamiltonians for S=1/2 quantum magnets with spinless fermionic excitations in higher dimensions",
+              "Link": "arxiv:2406.17034"
+            },
+            {
+              "Title": "Deconfined pseudocriticality in a model spin-1 quantum antiferromagnet",
+              "Link": "arXiv:2307.14254"
+            },
+            {
+              "Title": "Punctured-Chern topological invariants for semi-metallic bandstructures",
+              "Link": "Phys. Rev. Lett. 130, 186202 (2023), arXiv:2205.07814"
+            },
+            {
+              "Title": "Unusual spin dynamics in the low-temperature magnetically ordered state of Ag_3 Li Ir_2 O_6",
+              "Link": "Phys. Rev. B 104, 115106 (2021), arXiv:2104.10057"
+            }
+          ],
+          "Additional Details": {
+            "Current Group Members": [
+              "Anoop Raj, Ph.D. candidate, 2022- -- Coulomb phases in classical dimer models",
+              "Sankalp Kumar, Ph.D. candidate, 2021- -- Quantum phase transitions in SU(N) magnets",
+              "Naba Prakash Nayak, Ph.D. candidate, 2019- -- Disorder driven quantum phase transitions (primarily supervised by Soumya Bera)"
+            ],
+            "Past Group Members and Collaborators": "See HTML content for a detailed list.",
+            "Extensive Collaborators": "Ankur Das, Nisheeta Desai, Avinash Majahan, Kedar Damle, Hitesh Changlani, Christopher Henley",
+            "Other Past Collaborators": "Eyal Cornfeld, Gopal Dixit, Chanchal Barman, Chiranjit Mondal, Ribhu Kaul, Ganpathy Murthy, Fabien Alet, Michael Lawler",
+            "Teaching History": "See HTML content for a detailed list.",
+            "Personal Website/Publication List": "Most of my publications are listed here (link not extracted from HTML)",
+            "Talk Videos Playlist": "A playlist of my talk videos is available here (link not extracted from HTML)"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "P. Ramadevi",
+          "Email Address": "ramadevi@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767563",
+          "Office Location": "203",
+          "Research Interests": [
+            "Chern-Simons field theory",
+            "Knot invariants",
+            "Topological strings",
+            "Supersymmetric field theories"
+          ],
+          "Select Recent Publications": [
+            {
+              "Title": "Not Available",
+              "Link": "See INSPIRE-HEP link."
+            }
+          ],
+          "Additional Details": {
+            "Role": "Professor",
+            "Area": "High Energy Theory",
+            "Awards": "Not Available",
+            "Affiliations": "Not Available",
+            "Personal Website": "Not Available"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Kumar Rao",
+          "Email Address": "kumar.rao@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767587",
+          "Office Location": "304 C",
+          "Research Interests": "Tests of Electroweak symmetry breaking, Higgs physics, Polarization studies, Collider physics",
+          "Recent Publications": [
+            {
+              "title": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Role": "Associate Professor",
+            "Group": "High Energy Theory",
+            "Website": "Not Available"
+          }
+        }
+      ]
+    }
+  ]
+}

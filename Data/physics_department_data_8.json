@@ -1,0 +1,204 @@
+{
+  "research": [
+    {
+      "research_areas": [
+        {
+          "name": "Experimental High Energy Physics",
+          "description": "Not Available",
+          "key_researchers": [
+            {
+              "name": "Raghava Varma",
+              "role": "Faculty (Group Leader)"
+            },
+            {
+              "name": "Basanta Nandi",
+              "role": "Faculty (Group Leader)"
+            },
+            {
+              "name": "Sadhana Dash",
+              "role": "Faculty (Group Leader)"
+            }
+          ],
+          "ongoing_projects": "Not Available",
+          "additional_details": "Not Available"
+        }
+      ]
+    },
+    {
+      "research_areas": [
+        {
+          "area": "Theoretical Condensed Matter Physics",
+          "description": "Focuses on developing advanced theory, algorithms, and codes to explain various properties of materials (crystal structure, magnetism, transport) in both 3D bulk materials and low-dimensional systems (graphene, nanotubes, clusters). Utilizes theoretical modeling and first-principles calculations based on Density Functional Theory.",
+          "key_researchers": [
+            {
+              "name": "Prabhakar Singh",
+              "role": "Group Leader"
+            },
+            {
+              "name": "Aftab Alam",
+              "role": "Group Leader"
+            },
+            {
+              "name": "Soumya Bera",
+              "role": "Group Leader"
+            },
+            {
+              "name": "Hridis Pal",
+              "role": "Group Leader"
+            },
+            {
+              "name": "Prashant Kumar",
+              "role": "Group Leader"
+            }
+          ],
+          "ongoing_projects": "Not Available",
+          "additional_details": {
+            "facilities": "Not Available",
+            "collaborations": "Not Available",
+            "achievements": "Not Available"
+          }
+        }
+      ]
+    },
+    {
+      "research_areas": [
+        {
+          "area": "Experimental Condensed Matter Physics",
+          "description": "Research focuses on a variety of material systems, including magnetic materials (ferrites, oxide/nitride semiconductors, organic semiconductors), metallic compounds, multilayer thin films, Heuslar alloys, spin chain compounds, intermetallics,  artificial diamond films, and graphene-based sensors and chemical filters.",
+          "key_researchers": [
+            {
+              "name": "M Senthil kumar",
+              "role": "Faculty"
+            },
+            {
+              "name": "K G Suresh",
+              "role": "Faculty"
+            },
+            {
+              "name": "M Aslam",
+              "role": "Faculty"
+            },
+            {
+              "name": "Dinesh Kabra",
+              "role": "Faculty"
+            },
+            {
+              "name": "Pramod Kumar",
+              "role": "Faculty"
+            },
+            {
+              "name": "Uditendu Mukhopadhyay",
+              "role": "Faculty"
+            }
+          ],
+          "ongoing_projects": [
+            {
+              "name": "Growth of Magnetic Materials",
+              "description": "Using Pulsed Laser Deposition (PLD), Chemical Vapor Deposition (CVD), and Langmuir Blodgett systems to grow ferrites, oxide/nitride semiconductors, and organic semiconductors.",
+              "link": "Not Available"
+            },
+            {
+              "name": "High Pressure High Temperature Synthesis",
+              "description": "Producing metallic compounds with uncommon metal ion oxidation states.",
+              "link": "Not Available"
+            },
+            {
+              "name": "Spintronic Applications of Heuslar Alloys and Multilayer Thin Films",
+              "description": "Investigating spin and electronic structure correlations in Heuslar alloys and multilayer thin films for spintronic applications.",
+              "link": "Not Available"
+            },
+            {
+              "name": "Spin Interactions and Phases in Spin Chain Compounds and Intermetallics",
+              "description": "Studying spin glass and spin liquid behavior in spin chain compounds and intermetallics using solid-state NMR to understand fundamental spin-spin interactions.",
+              "link": "Not Available"
+            },
+            {
+              "name": "Artificial Diamond Films for Radiation-Hard Detectors",
+              "description": "Developing artificial diamond films using Microwave Plasma CVD for high-energy particle detector applications.",
+              "link": "Not Available"
+            },
+            {
+              "name": "Graphene-based Sensors and Chemical Filters",
+              "description": "Developing sensors and chemical filters based on graphene nanomaterials.",
+              "link": "Not Available"
+            }
+          ],
+          "additional_details": {
+            "facilities": "PLD/CVD, Langmuir Blodgett systems, High Pressure High Temperature furnace, Solid State NMR, Microwave Plasma CVD, AFM, High resolution X-ray diffraction, Surface chemical Analyser (ESCA), Class 10,000 cleanroom with photolithography, rapid thermal annealing, chip scribing, and ultrasonic wire bonding, Cryogenic facility with liquid Helium, Magneto-transport and SQUID magnetometry down to 300 mK.",
+            "collaborations": "Not Available",
+            "achievements": "Not Available"
+          }
+        }
+      ]
+    },
+    {
+      "research_area": "Soft Matter, Biophysics, and Nonlinear Dynamics",
+      "description": "Research in this area spans theoretical and experimental investigations of soft matter (polymers, granular matter, driven poly-crystals), biological physics (active matter, gene regulation, epigenetics, cellular dynamics, mechanics of cell division, shape transformations), and nonlinear dynamics (electrical circuits, electrochemical systems, stochastic delay differential equations).  The work builds upon the foundations of statistical mechanics and extends to non-equilibrium processes and nonlinear phenomena.",
+      "key_researchers": [
+        {
+          "name": "Anirban Sain",
+          "role": "Group Leader"
+        },
+        {
+          "name": "Punit Parmananda",
+          "role": "Group Leader"
+        },
+        {
+          "name": "Raghunath Chelakkot",
+          "role": "Group Leader"
+        },
+        {
+          "name": "Sunita Srivastava",
+          "role": "Group Leader"
+        }
+      ],
+      "ongoing_projects": [
+        {
+          "project_name": "Not Available",
+          "description": "Not Available",
+          "link": "Not Available"
+        }
+      ],
+      "additional_details": {
+        "facilities": "Not Available",
+        "collaborations": "Not Available",
+        "achievements": "Not Available"
+      }
+    },
+    {
+      "research_areas": [
+        {
+          "area": "Optics and Photonics",
+          "description": "Explores light-matter interactions in various physical systems to understand fundamental concepts and develop novel technologies. Focuses on nonlinear optics, ultrafast phenomena, molecular spectroscopy, nano-optics and plasmonics, organic LEDs and devices.",
+          "key_researchers": "Not Available",
+          "ongoing_projects": "Not Available",
+          "additional_details": {
+            "facilities": "Labs and central facilities at IIT Bombay",
+            "courses_offered": [
+              "Optics",
+              "Basic and Advanced Photonics",
+              "Light-Matter Interaction",
+              "Optics at Nanoscale",
+              "Introduction to Atomic and Molecular Physics"
+            ],
+            "notable_achievements": "Not Available"
+          }
+        },
+        {
+          "area": "Tapanendu Kundu Group",
+          "description": "Not Available",
+          "key_researchers": "Tapanendu Kundu",
+          "ongoing_projects": "Not Available",
+          "additional_details": "Not Available"
+        },
+        {
+          "area": "Dinesh Kabra Group",
+          "description": "Not Available",
+          "key_researchers": "Dinesh Kabra",
+          "ongoing_projects": "Not Available",
+          "additional_details": "Not Available"
+        }
+      ]
+    }
+  ]
+}

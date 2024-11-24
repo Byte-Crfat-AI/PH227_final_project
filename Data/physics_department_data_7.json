@@ -1,0 +1,125 @@
+{
+  "faculty": [
+    {
+      "faculty": [
+        {
+          "Full Name": "Sai Vinjanampathy",
+          "Email Address": "sai@phy.iitb.ac.in",
+          "Phone Number": "+91-22-2576-7592",
+          "Office Location": "209",
+          "Research Interests": "Quantum Information Theory, Quantum Control Theory, Quantum Synchronisation, Non-Equilibrium Statistical Mechanics",
+          "Recent Publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Group Website": "Not explicitly provided, but text mentions 'Please visit our group website for details'",
+            "Education": "Ph.D. Louisiana State University",
+            "Courses Taken": "PH403 Quantum Mechanics, PH534 Quantum Information, PH202 Waves and Oscillations, PH117 Laboratory",
+            "Alumni": "Dr. Parvinder Solanki (Currently at the University of Basel)",
+            "Current Students": "Muthumanimaran Vetrivelan, Abhisek Panda, Midhun Krishna, Yeshma Ibrahim",
+            "Google Scholar Link": "seeGoogle Scholar Link"
+          }
+        }
+      ]
+    }
+  ],
+  "Research": {
+    "Theoretical High Energy Physics": {
+      "Research Area/Description": "Research focuses on elementary particle physics, physics beyond the Standard Model, exploring various open questions related to the Higgs boson, top quark physics, proton spin, neutrino physics, flavor physics, unified theories, supersymmetry, topological quantum field theories, AdS-CFT correspondence, astroparticle physics, and early universe cosmology including matter-antimatter asymmetry, dark matter, and inflationary paradigm.",
+      "Key Researchers": [
+        {
+          "name": "S Umasankar",
+          "role": "Faculty (Group Leader)"
+        },
+        {
+          "name": "Asmita Mukherjee",
+          "role": "Faculty (Group Leader)"
+        },
+        {
+          "name": "Vikram Rentala",
+          "role": "Faculty (Group Leader)"
+        },
+        {
+          "name": "Manibrata Sen",
+          "role": "Faculty (Group Leader)"
+        }
+      ],
+      "Ongoing Projects": [
+        {
+          "project_name": "Higgs and Top quark physics in beyond Standard Model (bSM) models",
+          "description": "Exploring collider signatures of new physics contributions to Higgs and top quark observables, through polarization and jet substructure studies both at the Large Hadron Collider (LHC) and the proposed International Linear Collider (ILC).",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "Understanding the proton spin",
+          "description": "Investigating how the proton's spin is built up from the intrinsic spin of quarks and gluons and their orbital angular momentum.",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "Neutrino Physics",
+          "description": "Exploring the smallness of neutrino masses, their mixings, mass hierarchy, CP violation, and Majorana nature.",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "Flavour Physics",
+          "description": "Investigating the masses and mixings of fermions in the Standard Model, CP violating parameters, and their connection to baryon asymmetry.",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "Supersymmetric gauge theories",
+          "description": "Studying supersymmetry and its implications for the standard Higgs, exploring left-right symmetric extended supersymmetric models and their ability to explain matter-antimatter asymmetry and neutrino mass.",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "Topological Quantum Field Theories and knot theory",
+          "description": "Working on knot polynomials using Chern-Simons topological field theory.",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "AdS-CFT correspondence",
+          "description": "Utilizing string theory-gauge theory dualities to understand counting of BPS states and transport properties like shear viscosity to entropy density ratio.",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "Matter-antimatter asymmetry",
+          "description": "Exploring mechanisms for generating matter-antimatter asymmetry in the early universe, including the role of topological defects.",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "Dark matter",
+          "description": "Investigating the particle nature of dark matter and potential candidates within extended models.",
+          "link": "Not Available"
+        },
+        {
+          "project_name": "Inflationary paradigm",
+          "description": "Studying the properties of the inflaton field and its impact on the Cosmic Microwave Background Radiation.",
+          "link": "Not Available"
+        }
+      ],
+      "Additional Details": {
+        "Facilities Used": "Not Available",
+        "Collaborations": "Not Available",
+        "Notable Achievements": "Not Available"
+      }
+    }
+  }
+}

@@ -7,53 +7,53 @@
           "Email Address": "aftab@phy.iitb.ac.in",
           "Phone Number": "+91-22-25765564 (O)",
           "Office Location": "229C",
-          "Research Interests": "Magnetism and Spintronics, Understanding exotic phases of Superconductors and Topological Insulators, Effect of variable relaxation time on thermoelectric properties of materials, Electronic and Optical properties of solar harvesting materials, Electro and Photocatalysis, Electronic Structure and Thermodynamics of Alloys (Transition metals, Binary and Ternary Alloys), Long-range, Partial and Short-Range Ordering in Alloys, Vibrational properties of intermetallic and disordered materials (Phonon dispersion, vibrational entropy, short-range ordering), Response functions in materials with defects (Electrical conductivity, Electronic and Lattice thermal conductivity)",
-          "Select Recent Publications": [
+          "Research Interests": "Magnetism and Spintronics, Understanding exotic phases of Superconductors and Topological Insulators, Effect of variable relaxation time on thermoelectric properties of materials, Electronic and Optical properties of solar harvesting materials, Electro and Photocatalysis, Electronic Structure and Thermodynamics of Alloys, Long-range, Partial and Short-Range Ordering in Alloys, Vibrational properties of intermetallic and disordered materials, Response functions in materials with defects.",
+          "Recent Publications": [
             {
-              "title": "Mixed metal-antimony oxide nanocomposites : low pH water oxidation electrocatalysts with outstanding durability at ambient and elevated temperatures",
-              "link": null,
-              "journal": "J. Mater. Chem. A",
-              "volume": "9",
-              "page": "27468",
-              "year": "2021"
+              "Title": "Mixed metal-antimony oxide nanocomposites : low pH water oxidation electrocatalysts with outstanding durability at ambient and elevated temperatures",
+              "Link": null,
+              "Journal": "J. Mater. Chem. A",
+              "Volume": "9",
+              "Page": "27468",
+              "Year": "2021"
             },
             {
-              "title": "Origin of High Non-radiative Recombination and Relevant Optoelectronic Properties of Ba2Bi_1+xNb1-xO6: Candidate for Photo(electro)catalysis and Photovoltaic Application",
-              "link": null,
-              "journal": "Advanced Optical Materials",
-              "volume": "2000901",
-              "page": "1-10",
-              "year": "2020"
+              "Title": "Origin of High Non-radiative Recombination and Relevant Optoelectronic Properties of Ba2Bi_1+xNb1-xO6: Candidate for Photo(electro) catalysis and Photovoltaic Application",
+              "Link": null,
+              "Journal": "Advanced Optical Materials",
+              "Volume": "2000901",
+              "Page": "1-10",
+              "Year": "2020"
             },
             {
-              "title": "Revealing the nature of antiferro-quadrupolar ordering in cerium hexaboride CeB_6",
-              "link": null,
-              "journal": "Phys. Rev. Lett",
-              "volume": "122",
-              "page": "076401",
-              "year": "2019"
+              "Title": "Revealing the nature of antiferro-quadrupolar ordering in cerium hexaboride CeB_6",
+              "Link": null,
+              "Journal": "Phys. Rev. Lett",
+              "Volume": "122",
+              "Page": "076401",
+              "Year": "2019"
             },
             {
-              "title": "Double Perovskites overtaking the single perovskites: A set of new solar harvesting materials with much higher stability and efficiency",
-              "link": null,
-              "journal": "Phys. Rev. Materials",
-              "volume": "2",
-              "page": "055401",
-              "year": "2018"
+              "Title": "Double Perovskites overtaking the single perovskites: A set of new solar harvesting materials with much higher stability and efficiency",
+              "Link": null,
+              "Journal": "Phys. Rev. Materials",
+              "Volume": "2",
+              "Page": "055401",
+              "Year": "2018"
             },
             {
-              "title": "Bismuth based Half Heusler Alloys with giant thermoelectric figure of merit",
-              "link": null,
-              "journal": "J. of Mater. Chem. A",
-              "volume": "5",
-              "page": "6131-6139",
-              "year": "2017"
+              "Title": "Bismuth based Half Heusler Alloys with giant thermoelectric figure of merit",
+              "Link": null,
+              "Journal": "J. of Mater. Chem. A",
+              "Volume": "5",
+              "Page": "6131-6139",
+              "Year": "2017"
             }
           ],
           "Additional Details": {
             "Group Webpage": "Not Available",
             "Google Scholar Link": "Not Available",
-            "Affiliations": "Condensed Matter Theory"
+            "Area": "Condensed Matter Theory"
           }
         }
       ]
@@ -79,9 +79,9 @@
           ],
           "Additional Details": {
             "Designation": "Professor",
-            "Research Group Weblinks": "FB weblinks for current research activities and news",
-            "Google Scholar Link": "(For current publications click on year tab)",
-            "Area": "Condensed Matter Experiments"
+            "Field": "Condensed Matter Experiments",
+            "Web Links": "FB weblinks for current research activities and news",
+            "Google Scholar": "Google scholar link: (For current publications click on year tab)"
           }
         }
       ]
@@ -117,15 +117,10 @@
             }
           ],
           "Additional Details": {
-            "Position": "Associate Professor",
-            "Group Website": "Available (Link not provided)",
-            "Postdoctoral Position Opening": "Yes",
-            "Summer Project Openings": "No",
-            "Publications Link": {
-              "Google Scholar": "Available (Link not provided)",
-              "ArXiv": "Available (Link not provided)"
-            },
-            "Area": "Condensed Matter Theory"
+            "Group Website": "Available (Link not provided in the original data)",
+            "Postdoctoral Position Opening": true,
+            "Summer Project Openings": false,
+            "Affiliations/Awards": "Not Available"
           }
         }
       ]

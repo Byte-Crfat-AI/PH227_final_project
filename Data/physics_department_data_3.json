@@ -1,0 +1,219 @@
+{
+  "faculty": [
+    {
+      "faculty": [
+        {
+          "Full Name": "Maniraj Mahalingam",
+          "Email Address": "maniraj@iitb.ac.in",
+          "Phone Number": "+91-22-25765554",
+          "Office Location": "Room 209",
+          "Research Interests": "Surface and Interface Science",
+          "Select Recent Publications": "Not Available",
+          "Additional Details": {
+            "Role": "Assistant Professor",
+            "Group Link": "Not Available",
+            "Research Area": "Condensed Matter Experiments"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Suddhasatta Mahapatra",
+          "Email Address": "suddho@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767577",
+          "Office Location": "Not Available",
+          "Research Interests": [
+            "Quantum Electronics",
+            "Quantum Information",
+            "Quantum Computation",
+            "Group IV Epitaxy and Optoelectronics",
+            "Silicon/Germanium Spintronics",
+            "Thermoelectric materials, modules, and generators"
+          ],
+          "Select Recent Publications": [
+            {
+              "title": "Spin Blockade and Exchange in Coulomb-confined Silicon Double Quantum Dots",
+              "link": "Not Available",
+              "journal": "Nature Nanotechnology 9, 430 (2014)"
+            },
+            {
+              "title": "Transport in Asymmetrically Coupled Donor-based Silicon Triple Quantum Dots",
+              "link": "Not Available",
+              "journal": "Nano Letters 14, 1830 (2014)"
+            },
+            {
+              "title": "Spontaneous Breaking of Time Reversal Symmetry in Strongly Interacting Two-Dimensional Electron Layers in Silicon and Germanium",
+              "link": "Not Available",
+              "journal": "Physical Review Letters 112, 236602 (2014)"
+            },
+            {
+              "title": "Addressability and spin read-out of phosphorus-donor-clusters in silicon",
+              "link": "Not Available",
+              "journal": "Nature Communications 4, 2017 doi:10.1038/ncomms3017 (2013)"
+            },
+            {
+              "title": "Engineering Independent Electrostatic Control of Atomic-Scale (~4nm) Silicon Double Quantum Dots",
+              "link": "Not Available",
+              "journal": "Nano Letters 12, 4001 (2012)"
+            }
+          ],
+          "Additional Details": {
+            "Website": "Q-Si Lab Website",
+            "Area": "Condensed Matter Experiments",
+            "Affiliations": "Not Available",
+            "Awards": "Not Available",
+            "Roles": "Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Mithun Kumar Mitra",
+          "Email Address": "mithun@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767565",
+          "Office Location": "229-D",
+          "Research Interests": "Quantitative Biology, Statistical Mechanics, Nonlinear Dynamics, Condensed Matter Physics, 3D Genome Organization, Epigenetic Landscapes, Early Embryonic Development, Intracellular Transport, Molecular Motors, Active Matter Physics, Polymer Physics",
+          "Select Recent Publications": [
+            {
+              "title": "A Lamin Associated Chromatin Model for Chromosome Organisation",
+              "link": null,
+              "year": 2019
+            },
+            {
+              "title": "The accidental ally: Nucleosomal barriers can accelerate cohesin mediated loop formation in chromatin",
+              "link": null,
+              "year": 2019
+            },
+            {
+              "title": "Delayed self-regulation and time-dependent chemical drive leads to novel states in epigenetic landscapes",
+              "link": null,
+              "year": 2014
+            },
+            {
+              "title": "Reprogramming, oscillations and transdifferentiation in epigenetic landscapes",
+              "link": null,
+              "year": 2018
+            },
+            {
+              "title": "Cyto-architecture constrains a photoactivation induced tubulin gradient in the syncytial Drosophila embryo",
+              "link": null,
+              "year": 2019
+            }
+          ],
+          "Additional Details": {
+            "Group Home Page": "Not Available",
+            "Awards": "Not Available",
+            "Affiliations": "Not Available",
+            "Personal Website": "Not Available",
+            "Roles within Department": "Professor"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Asmita Mukherjee",
+          "Email Address": "asmita@phy.iitb.ac.in",
+          "Phone Number": "+91-22-25767579",
+          "Office Location": "240, second floor, Department of Physics",
+          "Research Interests": "Theoretical Particle Physics, QCD, QCD spin physics, Light-cone wave functions, collider phenomenology",
+          "Select Recent Publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Awards": "Not Available",
+            "Affiliations": "Not Available",
+            "Personal Website": "Not Available",
+            "Roles": "Professor",
+            "Courses Taught": "PH540-Elementary Particle Physics, PH407-Mathematical Physics-I, PH408-Mathematical Physics-II, PH107-Quantum Physics and Applications, PH423-Quantum Mechanics-III, PH422-Quantum Mechanics-II, PH105-Modern Physics",
+            "Current PhD Students": [
+              "Sudeep Saha",
+              "Amol Pawar"
+            ],
+            "Graduated PhD Students": [
+              "Ravi Manohar",
+              "Sreeraj Nair",
+              "Vikash K. Ojha",
+              "Sangem Rajesh",
+              "Raj Kishore"
+            ],
+            "CFNS - IITB Postdoc": "Shaik Khatiza Banu",
+            "Past Postdocs": [
+              "Jai More",
+              "Tanmay Maji",
+              "Mariyah Siddiqah"
+            ],
+            "JRF in BRNS Project": "Ravi Singh",
+            "Inspirehep": "Not Available",
+            "Google Scholar Link": "Not Available"
+          }
+        }
+      ]
+    },
+    {
+      "faculty": [
+        {
+          "Full Name": "Uditendu Mukhopadhyay",
+          "Email Address": "uditendu@iitb.ac.in",
+          "Phone Number": "7575",
+          "Office Location": "229 - G",
+          "Research Interests": "Experimental Quantum Simulation, Quantum Computation",
+          "Select Recent Publications": [
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            },
+            {
+              "title": "Not Available",
+              "link": "Not Available"
+            }
+          ],
+          "Additional Details": {
+            "Position": "Assistant Professor",
+            "Area": "Condensed Matter Experiments",
+            "Awards": "Not Available",
+            "Affiliations": "Not Available",
+            "Personal Website": "Not Available",
+            "Departmental Roles": "Not Available"
+          }
+        }
+      ]
+    }
+  ]
+}
