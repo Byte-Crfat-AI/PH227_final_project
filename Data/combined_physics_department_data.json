@@ -1,0 +1,2411 @@
+{
+    "faculty": [
+        {
+            "faculty": [
+                {
+                    "Full Name": "Varun Bhalerao",
+                    "Email Address": "varunb@iitb.ac.in",
+                    "Phone Number": "+91 22 2576 9379",
+                    "Office Location": "229-I (Opp mini seminar room)",
+                    "Research Interests": [
+                        "Electromagnetic counterparts of gravitational wave sources",
+                        "Astrophysical instrumentation (X-ray telescopes)",
+                        "X-ray and optical studies of transient sources",
+                        "Neutron stars and neutron star binaries"
+                    ],
+                    "Select Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Position": "Associate Professor",
+                        "Group Website": "Not Available",
+                        "Publication Links": {
+                            "ADS": "Not Available",
+                            "arXiv": "Not Available",
+                            "ORCID": "Not Available",
+                            "Google Scholar": "Not Available"
+                        },
+                        "Research Group": "Astronomy, Cosmology and Gravity (ACG)"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Sayantika Bhowal",
+                    "Email Address": "sbhowal@iitb.ac.in",
+                    "Phone Number": "+91-22-25767568",
+                    "Office Location": "Room 217",
+                    "Research Interests": "To understand, predict, and design materials exhibiting unique electronic, magnetic, magnetoelectric, and transport properties in which quantum effects prevail. Recent interests involve: Hidden charge and magnetic order; Charge, spin and orbital Hall effects; Magnetic skyrmions; Magnetism and spin-orbitronics; Magnetoelectrics; Topology; Ferroelectrics; Compton scattering; Polar metals",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Position": "Assistant Professor",
+                        "Group Webpage": "Not Available",
+                        "Area": "Condensed Matter Theory"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Raghunath Chelakkot",
+                    "Email Address": "raghu@phy.iitb.ac.in",
+                    "Phone Number": "Not Available",
+                    "Office Location": "210",
+                    "Research Interests": "Driven Soft matter, Active matter, Physics of sentient systems",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Percolation transition in phase separating active fluid",
+                            "authors": "Monika Sanoria, Raghunath Chelakkot, Amitabha Nandi",
+                            "link": "arXiv:2203.05433"
+                        },
+                        {
+                            "title": "A mechano-sensing mechanism for waving plant roots",
+                            "authors": "Z. Zhang, D. van Ophem, R. Chelakkot, N. Lazarovitch, I. Regev",
+                            "link": "Scientific Reports, 12, 9636, 2022"
+                        },
+                        {
+                            "title": "Role of Delta-Notch signalling molecules on cell-cell adhesion in determining heterogeneous chemical and cell morphological pattering",
+                            "authors": "S. Bajpai, R. Chelakkot, R. Prabhakar, M M. Inamdar",
+                            "link": "Soft Matter 18(18), 2022"
+                        },
+                        {
+                            "title": "Influence of interaction softness on phase separation of active particles",
+                            "authors": "Monika Sanoria, Raghunath Chelakkot, Amitabha Nandi",
+                            "link": "Phys Rev E, 103(5), 2021"
+                        },
+                        {
+                            "title": "Roll of cell polarity and motility in pattern formation due to contact-dependant signalling",
+                            "authors": "S. Bajpai, R. Prabhakar, R. Chelakkot, M M. Inamdar",
+                            "link": "J. Roy. Soc. Interface, 18(175), 2021"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Position": "Associate Professor",
+                        "Areas": "Soft Matter Physics"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Pragya Das",
+                    "Email Address": "pragya@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767566",
+                    "Office Location": "239-F",
+                    "Research Interests": [
+                        "Nuclear structure studies with heavy-ion fusion reaction",
+                        "Nuclei excited to high-spin states using the 14 MV Pelletron accelerator at TIFR (Mumbai) or IUAC (New Delhi)",
+                        "Spectroscopic properties of nuclei investigated by detecting photons with the Indian National Gamma Array (INGA)",
+                        "Measurement (using the DSAM technique) of short lifetimes (ps-fs)",
+                        "Nuclear Chirality",
+                        "Shape coexistence",
+                        "Signature aspects",
+                        "Different nuclear shapes \u2013 prolate, oblate and triaxial",
+                        "Imaging with scattered photons in Positron emission tomography (PET)",
+                        "Polarization entanglement of annihilation photons",
+                        "Experimental verification of simulation results"
+                    ],
+                    "Recent Publications": [
+                        {
+                            "Title": "Towards understanding Incomplete fusion reactions at low beam energies: Modified Sum rule model",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Lifetime measurement in picoseconds for the excited states of 129Cs",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "The study of signature inversion in 123,125I using Particle Rotor Model calculations",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Shapes and Symmetries in A\uf07e 130 Nuclei: A Perspective through Measured Transition Probabilities",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Nuclear shapes and symmetries seen through measurement of short lifetimes",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Position": "Associate Professor",
+                        "Affiliations": "Not Available",
+                        "Awards": "Not Available",
+                        "Website": "Not Available",
+                        "Other Roles": "High Energy Experiments"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Dibyendu Das",
+                    "Email Address": "dibyendudas@iitb.ac.in",
+                    "Phone Number": "+91-22-25767555",
+                    "Office Location": "B 229",
+                    "Research Interests": "Theory of Stochastic Processes and Non-equilibrium Statistical Physics and their applications to physical and biological systems. Mathematical problems related to biological processes in pathogen populations, gene expression, cytoskeletal filaments, and neurons. First passage questions. Pattern formation & universal scaling properties of cooling granular matter, and active self-propelled particles and hard rods.",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Exact distribution of Quantal content in Synaptic transmission",
+                            "link": null,
+                            "authors": "Krishna Rijal, Nicolus I C Muller, Eckhard Friauf, Abhyudai Singh, Ashok Prasad, Dibyendu Das",
+                            "journal": "Phys. Rev. Letts. 132, 228401 (2024)"
+                        },
+                        {
+                            "title": "Exact distribution of threshold crossing times for protein concentrations: implication for Biological timekeeping",
+                            "link": null,
+                            "authors": "Krishna Rijal, Ashok Prasad, Abhyudai Singh, Dibyendu Das",
+                            "journal": "Phys. Rev. Lett. 128, 048101 (2022)"
+                        },
+                        {
+                            "title": "Protein hourglass: Exact first passage time distributions for protein thresholds",
+                            "link": null,
+                            "authors": "Krishna Rijal, Ashok Prasad, Dibyendu Das",
+                            "journal": "Phys. Rev. E 102, 052413 (2020)"
+                        },
+                        {
+                            "title": "Comparison of mechanisms of kinetochore capture with varying number of spindle microtubules",
+                            "link": null,
+                            "authors": "Indrani Nayak, Dibyendu Das, Amitabha Nandi",
+                            "journal": "Phys. Rev. Research 2, 013114 (2020)"
+                        },
+                        {
+                            "title": "First passage of a particle in a potential under stochastic resetting: A vanishing transition of optimal resetting rate",
+                            "link": null,
+                            "authors": "Saeed Ahmad, Indrani Nayak, Ajay Bansal, Amitabha Nandi, Dibyendu Das",
+                            "journal": "Phys. Rev. E 99, 022130 (2019)"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Google Scholar Link": "Not Available",
+                        "Education": [
+                            "B.Sc. Physics \u2014 Presidency College, Kolkata, India (1990-93)",
+                            "M.Sc. Physics \u2014 IIT Kanpur, India (1993-95)",
+                            "Ph.D. Physics \u2014 TIFR, Mumbai, India (1995-2000)"
+                        ],
+                        "Postdoctoral Positions": [
+                            "Brandeis University, USA (2000-02)",
+                            "Orsay, University Paris Sud, France (2002-03)"
+                        ],
+                        "Current Affiliation": "IIT Bombay, India (2003-now)"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Sadhana Dash",
+                    "Email Address": "sadhana@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767554",
+                    "Office Location": "Room 207",
+                    "Research Interests": "Heavy Ion collisions, Correlations, Resonance Production, Heavy Flavor and Multiparticle Production",
+                    "Select Recent Publications": "Not Available",
+                    "Additional Details": {
+                        "Role": "Professor",
+                        "Area": "High Energy Experiments",
+                        "Awards": "Not Available",
+                        "Affiliations": "Not Available",
+                        "Personal Website": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Himadri Shekhar Dhar",
+                    "Email Address": "himadri.dhar@iitb.ac.in",
+                    "Phone Number": "+91 22 2576 7570",
+                    "Office Location": "304",
+                    "Research Interests": [
+                        "Quantum information, entanglement and resource theories",
+                        "Entanglement and quantum correlations in quantum optics and many-body systems",
+                        "Mathematical perspective of entanglement and other resource theories",
+                        "Quantum optics, cavity QED and hybrid quantum systems",
+                        "Theoretical and computational study of the interaction of light with matter",
+                        "Quantum information dynamics",
+                        "Optimal control theory, state engineering and machine learning"
+                    ],
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Bose\u2013Einstein condensation of light in a semiconductor quantum well microcavity",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Breakdown of Temporal Coherence in Photon Condensates",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Periodic cavity state revivals from atomic frequency combs",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Learning the Fuzzy Phases of Small Photonic Condensates",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Nonstationary correlation in formation jitter of photonic condensates",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Awards": "Not Available",
+                        "Affiliations": "Not Available",
+                        "Personal Website": "Not Available",
+                        "Google Scholar": "Not Available",
+                        "arXiv Page": "Not Available",
+                        "Courses": [
+                            "Quantum Information and Computation (PH 534)",
+                            "Programming Course (PH 434)"
+                        ],
+                        "Roles": "Assistant Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Subhabrata Dhar",
+                    "Email Address": "dhar@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767578",
+                    "Office Location": "221",
+                    "Research Interests": [
+                        "Growth, transport and optical properties of semiconductors",
+                        "Low dimensional Semiconductors",
+                        "Semiconductor nanostructures",
+                        "Magnetic Semiconductors"
+                    ],
+                    "Recent Publications": [
+                        {
+                            "Title": "High electron mobility through the edge states in random networks of c-axis oriented wedge-shaped GaN nanowalls grown by molecular beam epitaxy",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Effect of surface groups on the luminescence property of ZnO nanoparticles synthesized by sol-gel route",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Two Distinct Origins of Highly Localized Luminescent Centers within InGaN/GaN Quantum-Well Light-Emitting Diodes",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Optical detection of the defects associated with the magnetic properties observed in GaN:Gd layers grown by reactive molecular beam epitaxy",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Colossal magnetic moment of Gd in GaN",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Google Scholar Link": "Not Available",
+                        "Research Group Link": "Not Available",
+                        "Courses Taken": [
+                            "Introduction to condensed matter physics",
+                            "Superconductivity",
+                            "Physics of semiconductor devices",
+                            "Semiconductor physics",
+                            "Electricity and magnetism (1st year course)",
+                            "Numerical methods and programming"
+                        ],
+                        "Affiliations": [
+                            "Condensed Matter Experiments"
+                        ],
+                        "Awards": "Not Available",
+                        "Personal Website": "Not Available",
+                        "Roles": "Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Gopal Dixit",
+                    "Email Address": "gdixit@phy.iitb.ac.in",
+                    "Phone Number": "+91 22 25767558",
+                    "Office Location": "203",
+                    "Research Interests": "Attosecond Physics",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Photocurrent generation in solids via linearly polarised laser",
+                            "Link": null,
+                            "Journal": "Phys. Rev. B 109,104309 (2024)"
+                        },
+                        {
+                            "Title": "Tailoring photocurrent in Weyl semimetals via intense laser irradiation",
+                            "Link": null,
+                            "Journal": "Phys. Rev. B 108,L161113 (2023)"
+                        },
+                        {
+                            "Title": "How massless are Weyl fermions in Weyl semimetals",
+                            "Link": null,
+                            "Journal": "Phys. Rev. B 108,L020305 (2023)"
+                        },
+                        {
+                            "Title": "All-optical ultrafast valley switching in two-dimensional materials",
+                            "Link": null,
+                            "Journal": "Phys. Rev. Applied 19,034056 (2023)"
+                        },
+                        {
+                            "Title": "Generation of circularly-polarized high-harmonics with identical helicity in two-dimensional materials",
+                            "Link": null,
+                            "Journal": "Phys. Rev. Applied 18,064049 (2022)"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Website": "Not Available",
+                        "Affiliations": "Condensed Matter Theory",
+                        "Awards": "Not Available",
+                        "Roles": "Associate Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Kantimay Das Gupta",
+                    "Email Address": "kdasgupta@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767598",
+                    "Office Location": "302B",
+                    "Research Interests": "Mesoscopic physics, low temperature transport, semiconductor heterostructures, thin film growth, small scale instrumentation, magnetic levitation",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Effect of invasive probes on measurement of magneto-transport in macroscopic samples : A gallium nitride case study",
+                            "Authors": "A.K. Jain, H. Chakraborti, B.P. Joshi, B. Pal, M.Monish, S.M. Shivaprasad, S. Dhar, K. Das Gupta.",
+                            "Journal": "Journal of Applied Physics,126 (8), 085706 (2019)"
+                        },
+                        {
+                            "Title": "Experimental evidence of a very thin superconducting layer in epitaxial indium nitride",
+                            "Authors": "B. Pal, B.P. Joshi, H. Chakraborti, A.K. Jain, B.K. Barik, K. Ghosh, S. Bhunia, A. Laha, S. Dhar, K. Das Gupta",
+                            "Journal": "Superconductor Science and Technology,32, 015009 (2019)"
+                        },
+                        {
+                            "Title": "Effect of paramater mismatch on the synchronization of strongly coupled self sustained oscillators",
+                            "Authors": "N. Chakrabarty, A.K. Jain, Nijil Lal C.K., K. Das Gupta, P. Parmananda",
+                            "Journal": "Chaos27,013115 (2017)"
+                        },
+                        {
+                            "Title": "Switching between attractive and repulsive Coulomb interaction mediated drag in an ambipolar GaAs/AlGaAs bilayer device",
+                            "Authors": "B. Zheng, A.F. Croxall, J. Waldie, K. Das Gupta, F. Sfigakis, I. Farrer, H.E. Beere, D.A. Ritchie",
+                            "Journal": "Applied Physics Letters,108, 062102 (2016)"
+                        },
+                        {
+                            "Title": "Fabrication and characterisation of Gallium Arsenide ambipolar quantum point contacts",
+                            "Authors": "A. R. Hamilton, J. C. H. Chen , O. Klochan , A.P. Micolich , K. Das Gupta , F. Sfigakis , D. A. Ritchie , K. Trunov , D.Reuter , A. D. Wieck",
+                            "Journal": "Applied Physics Letters,106 (18), 183504 (2015)"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Areas": "Condensed Matter Experiments",
+                        "Courses": [
+                            "EP 426 Physics of Quantum Devices",
+                            "PH 409 Introduction to Condensed Matter Physics",
+                            "EP 431 Semiconductor Physics",
+                            "PH 108 Introduction to Electricity and Magnetism",
+                            "PH 517 Analytical Techniques",
+                            "PH 444 Electromagnetic Theory"
+                        ],
+                        "Website": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Dinesh Kabra",
+                    "Email Address": "dkabra@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767589",
+                    "Office Location": "229-A",
+                    "Research Interests": "Emerging Photonic Materials: Halide Perovskites and Molecular Semiconductors, Micro-spectroscopy (Emission, Transient absorption and Raman), Physics and engineering of optoelectronic Devices: Solar Cells, LEDs and Detectors",
+                    "Select Recent Publications": "Not Available",
+                    "Additional Details": {
+                        "Group Webpage": "Not Available",
+                        "Area": "Condensed Matter Experiments"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Rahul Kashyap",
+                    "Email Address": "rahulkashyap@iitb.ac.in",
+                    "Phone Number": "Not Available",
+                    "Office Location": "115A",
+                    "Research Interests": "Computational Astrophysics and multimessenger signals from Binary Compact Mergers including binary white dwarf and binary neutron star mergers",
+                    "Select Recent Publications": [],
+                    "Additional Details": {
+                        "Role": "Assistant Professor",
+                        "Group Research Website": "Personal and Group Research Website (in development)",
+                        "Research Group": "Astronomy, Cosmology and Gravity (ACG)"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Prashant Kumar",
+                    "Email Address": "pkumar16@iitb.ac.in",
+                    "Phone Number": "Not Available",
+                    "Office Location": "115D",
+                    "Research Interests": "Quantum Condensed Matter Theory, Topological Phases and Phase Transitions, Quantum Hall Physics, Strongly Correlated and Disordered Systems",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "A numerical study of bounds in the correlations of fractional quantum Hall states",
+                            "Link": "arXiv:2304.14991",
+                            "Journal": "SciPost Phys. 16, 117 (2024)"
+                        },
+                        {
+                            "Title": "Scaling of entanglement entropy at quantum critical points in random spin chains",
+                            "Link": "arXiv:2307.00062",
+                            "Journal": "Phys. Rev. B 108, L241113 (2023)"
+                        },
+                        {
+                            "Title": "Neutral Excitations of Quantum Hall States: a Density Matrix Renormalization Group Study",
+                            "Link": "arXiv:2112.02113",
+                            "Journal": "Phys. Rev. B 106, 075116 (2022)"
+                        },
+                        {
+                            "Title": "Numerical Study of a Dual Representation of the Integer Quantum Hall Transition",
+                            "Link": "arXiv:2009.07871",
+                            "Journal": "Phys. Rev. Lett. 126, 056802 (2021)"
+                        },
+                        {
+                            "Title": "Interaction effects on quantum Hall transitions: dynamical scaling laws and superuniversality",
+                            "Link": "arXiv:2006.11862",
+                            "Journal": "Phys. Rev. Research 4, 033146 (2022)"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Personal Website": "Available (link not extracted from the provided data, requires website scraping)",
+                        "Previous Affiliations": "Stanford University (Doctoral), Princeton University (Postdoc), University of Chicago (Postdoc)",
+                        "Openings": "Currently accepting motivated students for research in condensed matter theory."
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Maniraj Mahalingam",
+                    "Email Address": "maniraj@iitb.ac.in",
+                    "Phone Number": "+91-22-25765554",
+                    "Office Location": "Room 209",
+                    "Research Interests": "Surface and Interface Science",
+                    "Select Recent Publications": "Not Available",
+                    "Additional Details": {
+                        "Role": "Assistant Professor",
+                        "Group Link": "Not Available",
+                        "Research Area": "Condensed Matter Experiments"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Suddhasatta Mahapatra",
+                    "Email Address": "suddho@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767577",
+                    "Office Location": "Not Available",
+                    "Research Interests": [
+                        "Quantum Electronics",
+                        "Quantum Information",
+                        "Quantum Computation",
+                        "Group IV Epitaxy and Optoelectronics",
+                        "Silicon/Germanium Spintronics",
+                        "Thermoelectric materials, modules, and generators"
+                    ],
+                    "Select Recent Publications": [
+                        {
+                            "title": "Spin Blockade and Exchange in Coulomb-confined Silicon Double Quantum Dots",
+                            "link": "Not Available",
+                            "journal": "Nature Nanotechnology 9, 430 (2014)"
+                        },
+                        {
+                            "title": "Transport in Asymmetrically Coupled Donor-based Silicon Triple Quantum Dots",
+                            "link": "Not Available",
+                            "journal": "Nano Letters 14, 1830 (2014)"
+                        },
+                        {
+                            "title": "Spontaneous Breaking of Time Reversal Symmetry in Strongly Interacting Two-Dimensional Electron Layers in Silicon and Germanium",
+                            "link": "Not Available",
+                            "journal": "Physical Review Letters 112, 236602 (2014)"
+                        },
+                        {
+                            "title": "Addressability and spin read-out of phosphorus-donor-clusters in silicon",
+                            "link": "Not Available",
+                            "journal": "Nature Communications 4, 2017 doi:10.1038/ncomms3017 (2013)"
+                        },
+                        {
+                            "title": "Engineering Independent Electrostatic Control of Atomic-Scale (~4nm) Silicon Double Quantum Dots",
+                            "link": "Not Available",
+                            "journal": "Nano Letters 12, 4001 (2012)"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Website": "Q-Si Lab Website",
+                        "Area": "Condensed Matter Experiments",
+                        "Affiliations": "Not Available",
+                        "Awards": "Not Available",
+                        "Roles": "Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Mithun Kumar Mitra",
+                    "Email Address": "mithun@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767565",
+                    "Office Location": "229-D",
+                    "Research Interests": "Quantitative Biology, Statistical Mechanics, Nonlinear Dynamics, Condensed Matter Physics, 3D Genome Organization, Epigenetic Landscapes, Early Embryonic Development, Intracellular Transport, Molecular Motors, Active Matter Physics, Polymer Physics",
+                    "Select Recent Publications": [
+                        {
+                            "title": "A Lamin Associated Chromatin Model for Chromosome Organisation",
+                            "link": null,
+                            "year": 2019
+                        },
+                        {
+                            "title": "The accidental ally: Nucleosomal barriers can accelerate cohesin mediated loop formation in chromatin",
+                            "link": null,
+                            "year": 2019
+                        },
+                        {
+                            "title": "Delayed self-regulation and time-dependent chemical drive leads to novel states in epigenetic landscapes",
+                            "link": null,
+                            "year": 2014
+                        },
+                        {
+                            "title": "Reprogramming, oscillations and transdifferentiation in epigenetic landscapes",
+                            "link": null,
+                            "year": 2018
+                        },
+                        {
+                            "title": "Cyto-architecture constrains a photoactivation induced tubulin gradient in the syncytial Drosophila embryo",
+                            "link": null,
+                            "year": 2019
+                        }
+                    ],
+                    "Additional Details": {
+                        "Group Home Page": "Not Available",
+                        "Awards": "Not Available",
+                        "Affiliations": "Not Available",
+                        "Personal Website": "Not Available",
+                        "Roles within Department": "Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Asmita Mukherjee",
+                    "Email Address": "asmita@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767579",
+                    "Office Location": "240, second floor, Department of Physics",
+                    "Research Interests": "Theoretical Particle Physics, QCD, QCD spin physics, Light-cone wave functions, collider phenomenology",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Awards": "Not Available",
+                        "Affiliations": "Not Available",
+                        "Personal Website": "Not Available",
+                        "Roles": "Professor",
+                        "Courses Taught": "PH540-Elementary Particle Physics, PH407-Mathematical Physics-I, PH408-Mathematical Physics-II, PH107-Quantum Physics and Applications, PH423-Quantum Mechanics-III, PH422-Quantum Mechanics-II, PH105-Modern Physics",
+                        "Current PhD Students": [
+                            "Sudeep Saha",
+                            "Amol Pawar"
+                        ],
+                        "Graduated PhD Students": [
+                            "Ravi Manohar",
+                            "Sreeraj Nair",
+                            "Vikash K. Ojha",
+                            "Sangem Rajesh",
+                            "Raj Kishore"
+                        ],
+                        "CFNS - IITB Postdoc": "Shaik Khatiza Banu",
+                        "Past Postdocs": [
+                            "Jai More",
+                            "Tanmay Maji",
+                            "Mariyah Siddiqah"
+                        ],
+                        "JRF in BRNS Project": "Ravi Singh",
+                        "Inspirehep": "Not Available",
+                        "Google Scholar Link": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Uditendu Mukhopadhyay",
+                    "Email Address": "uditendu@iitb.ac.in",
+                    "Phone Number": "7575",
+                    "Office Location": "229 - G",
+                    "Research Interests": "Experimental Quantum Simulation, Quantum Computation",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Position": "Assistant Professor",
+                        "Area": "Condensed Matter Experiments",
+                        "Awards": "Not Available",
+                        "Affiliations": "Not Available",
+                        "Personal Website": "Not Available",
+                        "Departmental Roles": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Basanta Kumar Nandi",
+                    "Email Address": "basanta@iitb.ac.in",
+                    "Phone Number": "+91-22-25767560",
+                    "Office Location": "207-A",
+                    "Research Interests": "Multiplarticle production, Fluctuation and Heavy Flavor in ultra-relativistic heavy-ion collisions",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Net-Charge Fluctuations in Pb-Pb collisions at $\\sqrt{s_{NN}}$ = 2.76 TeV",
+                            "authors": "ALICE Collaboration",
+                            "journal": "Phys. Rev. Lett.",
+                            "volume": "110",
+                            "page": "152301",
+                            "year": "2013",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Charged Particle, Photon Multiplicity and Transverse Energy production in High Energy Heavy-Ion Collision",
+                            "authors": "R. Sahoo, A.N. Mishra, N.K. Behera and B.K. Nandi",
+                            "journal": "Advances in High Energy Physics",
+                            "volume": "2015",
+                            "page": "Article ID 612390",
+                            "year": "2015",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Inclusive Photon Production at forward rapidities in proton-proton collisions at sqrt(s) = 0.9, 2.76 and 7 TeV",
+                            "authors": "ALICE Collaboration",
+                            "journal": "EPJC",
+                            "volume": "75",
+                            "year": "2015",
+                            "page": "146",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Area": "High Energy Experiments",
+                        "Awards": "Not Available",
+                        "Affiliations": "Not Available",
+                        "Personal Website": "Not Available",
+                        "Roles": "Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Amitabha Nandi",
+                    "Email Address": "amitabha@phy.iitb.ac.in",
+                    "Phone Number": "Not Available",
+                    "Office Location": "229-G",
+                    "Research Interests": "Physics of Living Matter, Active and passive transport inside cells, Physics of morphogenesis, Collective phenomena in biological active matter",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Run-and-Tumble Like Motion of a Camphor-Infused Marangoni Swimmer",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Optimizing search processes in systems with state toggling: exact condition delimiting the efficacy of stochastic resetting strategy",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "UNC-104 transport properties are robust and independent of changes in its cargo binding",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Percolation transitions in the binary mixture of active Brownian particles with different softness",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Pathogenic aggregates alter actin organization and cellular viscosity resulting in stalled clathrin mediated endocytosis",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Affiliations": "Physics of Living Matter Group",
+                        "Personal Website": "Not Available",
+                        "Awards": "Not Available",
+                        "Roles": "Associate Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Archana Pai",
+                    "Email Address": "archana@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-2576-9380",
+                    "Office Location": "114, First Floor, Physics Department",
+                    "Research Interests": "Astrophysical gravitational-wave transient search in LIGO-Virgo network, Parameter estimation of compact binaries with black-holes, Test of General Relativity with gravitational-wave observations, Multimessenger astronomy.",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Utilizing Gaussian mixture modelling in all-sky search for short duration gravitational wave burst",
+                            "Link": null,
+                            "Authors": "Dixeena Lopez, V. Gayathri, Archana Pai, Ik Siong Heng, C. Messenger, S. K. Gupta",
+                            "Journal": "Phys. Rev. D 105, 063024 (2022)"
+                        },
+                        {
+                            "Title": "Effective chirp mass in the inspiral frequency evolution of the non-spinning eccentric compact binary",
+                            "Link": null,
+                            "Authors": "Nirban Bose and Archana Pai",
+                            "Journal": "Phys. Rev. D. 104, 124021 (2021)"
+                        },
+                        {
+                            "Title": "Science Case of LIGO-India",
+                            "Link": null,
+                            "Authors": "M. Saleem, J. Rana, V. Gayathri, A. Vijaykumar, S. Goyal, S. Sachdev, J. Suresh, S. Sudhagar, A. Mukherjee, G. Gaur, B. Sathyaprakash, A. Pai, R. Adhikari, P. Ajith, S. bose",
+                            "Journal": "Class. Quan. Grav. 39, 2, (2021)"
+                        },
+                        {
+                            "Title": "Optimized PyCBC search for gravitational waves from intermediate-mass black hole mergers",
+                            "Link": null,
+                            "Authors": "K. Chandra, V. Villa-Ortega, T. Dent, C. Mclsaac, Archana Pai, I. W. Harry, G. S. Cabourne Davis, and K. Soni",
+                            "Journal": "Phys. Rev. D 104, 042004 (2021)"
+                        },
+                        {
+                            "Title": "Chirp mass based glitch identification in the long duration transient",
+                            "Link": null,
+                            "Authors": "N. Bose, Archana Pai, K. Chandra and V. Gayathri",
+                            "Journal": "Phys. Rev. D 102, 084034 (2020)"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Affiliations": "LIGO Scientific Collaboration",
+                        "Publication Links": [
+                            "Google Scholar",
+                            "INSPIRE HEP Search"
+                        ],
+                        "Research Group": "Gravitational Wave Physics group",
+                        "Area": "Astronomy, Cosmology and Gravity (ACG)"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Hridis Kumar Pal",
+                    "Email Address": "hridis.pal@iitb.ac.in",
+                    "Phone Number": "+91-22-25767561",
+                    "Office Location": "217 Physics",
+                    "Research Interests": "Theoretical Condensed Matter Physics. Novel effects arising from topology, interparticle interactions, or both. Exotic phases and unconventional responses to external fields in 2D moir\u00e9 systems (e.g., twisted bilayer graphene), topological semimetals (e.g., Weyl semimetals), correlated systems (e.g., Kondo insulator SmB6), and superconducting heterostructures (e.g., ferromagnetic Josephson junctions).",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Title": "Associate Professor",
+                        "Personal Website": "Available (link not extracted from provided text)",
+                        "Affiliations": "Condensed Matter Theory",
+                        "Note": "No openings for project/internship for external students."
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Punit Parmananda",
+                    "Email Address": "punit@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767595",
+                    "Office Location": "209",
+                    "Research Interests": [
+                        "Experimental Nonlinear Dynamics",
+                        "Soft Matter Physics"
+                    ],
+                    "Select Recent Publications": "Not Available",
+                    "Additional Details": {
+                        "Website": "Website",
+                        "Google Scholar Link": "Google Scholar Link"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Sumiran Pujari",
+                    "Email Address": "sumiran@phy.iitb.ac.in",
+                    "Phone Number": "(+91) 22-2576-9376",
+                    "Office Location": "221 Physics",
+                    "Research Interests": "Condensed Matter Theory, Quantum Magnetism, Algorithms",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "A general theorem on extensive ground state entropy in spin-1/2 models",
+                            "Link": "arXiv:2407.06236"
+                        },
+                        {
+                            "Title": "A class of exactly solvable Hamiltonians for S=1/2 quantum magnets with spinless fermionic excitations in higher dimensions",
+                            "Link": "arxiv:2406.17034"
+                        },
+                        {
+                            "Title": "Deconfined pseudocriticality in a model spin-1 quantum antiferromagnet",
+                            "Link": "arXiv:2307.14254"
+                        },
+                        {
+                            "Title": "Punctured-Chern topological invariants for semi-metallic bandstructures",
+                            "Link": "Phys. Rev. Lett. 130, 186202 (2023), arXiv:2205.07814"
+                        },
+                        {
+                            "Title": "Unusual spin dynamics in the low-temperature magnetically ordered state of Ag_3 Li Ir_2 O_6",
+                            "Link": "Phys. Rev. B 104, 115106 (2021), arXiv:2104.10057"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Current Group Members": [
+                            "Anoop Raj, Ph.D. candidate, 2022- -- Coulomb phases in classical dimer models",
+                            "Sankalp Kumar, Ph.D. candidate, 2021- -- Quantum phase transitions in SU(N) magnets",
+                            "Naba Prakash Nayak, Ph.D. candidate, 2019- -- Disorder driven quantum phase transitions (primarily supervised by Soumya Bera)"
+                        ],
+                        "Past Group Members and Collaborators": "See HTML content for a detailed list.",
+                        "Extensive Collaborators": "Ankur Das, Nisheeta Desai, Avinash Majahan, Kedar Damle, Hitesh Changlani, Christopher Henley",
+                        "Other Past Collaborators": "Eyal Cornfeld, Gopal Dixit, Chanchal Barman, Chiranjit Mondal, Ribhu Kaul, Ganpathy Murthy, Fabien Alet, Michael Lawler",
+                        "Teaching History": "See HTML content for a detailed list.",
+                        "Personal Website/Publication List": "Most of my publications are listed here (link not extracted from HTML)",
+                        "Talk Videos Playlist": "A playlist of my talk videos is available here (link not extracted from HTML)"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "P. Ramadevi",
+                    "Email Address": "ramadevi@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767563",
+                    "Office Location": "203",
+                    "Research Interests": [
+                        "Chern-Simons field theory",
+                        "Knot invariants",
+                        "Topological strings",
+                        "Supersymmetric field theories"
+                    ],
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Not Available",
+                            "Link": "See INSPIRE-HEP link."
+                        }
+                    ],
+                    "Additional Details": {
+                        "Role": "Professor",
+                        "Area": "High Energy Theory",
+                        "Awards": "Not Available",
+                        "Affiliations": "Not Available",
+                        "Personal Website": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Kumar Rao",
+                    "Email Address": "kumar.rao@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767587",
+                    "Office Location": "304 C",
+                    "Research Interests": "Tests of Electroweak symmetry breaking, Higgs physics, Polarization studies, Collider physics",
+                    "Recent Publications": [
+                        {
+                            "title": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Role": "Associate Professor",
+                        "Group": "High Energy Theory",
+                        "Website": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Vikram Rentala",
+                    "Email Address": "rentala@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25765551",
+                    "Office Location": "Room 240",
+                    "Research Interests": "High energy particle physics, dark matter physics, particle astrophysics, and cosmology. Specifically, understanding the nature of electroweak symmetry breaking and its connection to the Higgs boson, and finding the properties of dark matter particles and exploring their interactions.",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Website": "Website link not extracted but mentioned in text",
+                        "Publications List Link": "Link not extracted but mentioned in the text",
+                        "Affiliations": "Astronomy, Cosmology and Gravity (ACG)",
+                        "Awards": "Not Available",
+                        "Roles": "Associate Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Shankaranarayanan S",
+                    "Email Address": "shanki@phy.iitb.ac.in",
+                    "Phone Number": "5552",
+                    "Office Location": "114",
+                    "Research Interests": "Gravity and Cosmology",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Group Page": "Gravity and Cosmology Group Page",
+                        "Inspire Publication List": "Publication list from INspire",
+                        "Research Area": "Astronomy, Cosmology and Gravity (ACG)",
+                        "Designation": "Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Anirban Sain",
+                    "Email Address": "asain@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767553",
+                    "Office Location": "221",
+                    "Research Interests": "Soft matter and Bio-physics:\n- Dynamic processes in the Cell (cell division, sporulation, endo- and exocytosis).\n- Membrane mechanics (tubulation, colloidal membrane).\n- Statistical physics of biopolymers, nemetic liquid crysals\nNonequilibrium Statistical Physics:\n- Grain dynamics in driven polycrystals (pressure, shear): MD & Phase field simulations.",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Chiral flows in the separating wall during cell division",
+                            "authors": "Vijit Ganguly, Mainak Chatterjee & Anirban Sain",
+                            "journal": "J. Chem. Phys.",
+                            "volume": "161",
+                            "page": "074110",
+                            "year": "2024"
+                        },
+                        {
+                            "title": "Directing the Formation of Tunable Superlattice Crystalline Phases from Anisotropic Nanoparticles",
+                            "authors": "S. Khawas, S. Bhattacharjee, S. Mukherjee, A. Sain and S. Srivastava",
+                            "journal": "Colloids and Surfaces A",
+                            "volume": "690",
+                            "page": "133762",
+                            "year": "2024"
+                        },
+                        {
+                            "title": "A human curvature sensitive septin octamer complex drives membrane deformation with a specific mesh-like organization",
+                            "authors": "K. Nakazawa, G.Kumar, B.Chauvin, Aurelie Di Cicco, L.Pellegrino, M. Trichet, B. Hajj, J.Cabral, A. Sain, S.Mangenot and A. Bertin",
+                            "journal": "J. Cell Sci",
+                            "volume": "136",
+                            "page": "jcs260813",
+                            "year": "2023"
+                        },
+                        {
+                            "title": "Temperature-dependent Self assembly of biofilaments during red blood cell sickling",
+                            "authors": "A. Behera, O. Sharma, D. Paul, and A. Sain",
+                            "journal": "J. Chem. Phys.",
+                            "volume": "157",
+                            "page": "014105",
+                            "year": "2022"
+                        },
+                        {
+                            "title": "Dynamic surface patterns on cells",
+                            "authors": "Mainak Chatterjee and A. Sain",
+                            "journal": "J. Chem. Phys",
+                            "volume": "156",
+                            "page": "084117",
+                            "year": "2022"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Education": "Integrated MSc: IIT Kanpur (1988-93)\nPhD: IISc Bangalore (1993-98)",
+                        "Postdoctoral Positions": "Simon Fraser Univ. Canada (1999-2000)\nWaterloo Univ., Canada(2001-2002)\nMcGill Univ., Canada (2002-2003)",
+                        "Industry Experience": "Hindustan Lever Research, Mumbai (2001)",
+                        "Current PhD Students": "Sabyasachi Mukherjee, Vijit Ganguly",
+                        "Former PhD Students": "Biplab Ghosh, Santidan Biswas, Surya Ghosh, Kulveer Singh, Gaurav Kumar, Tanmoy Sarkar, Vidya Menon, Sk Ashif Akram, Mainak Chatterjee, Arabinda Behera",
+                        "CV": "Available (Inferred from the text data - consider adding a link if available separately)"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Siddhartha Santra",
+                    "Email Address": "santra@iitb.ac.in",
+                    "Phone Number": "+91-22-25767562",
+                    "Office Location": "234",
+                    "Research Interests": [
+                        "Quantum networks",
+                        "Adiabatic quantum optimisation",
+                        "Quantum Information Theory"
+                    ],
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Quantum networking with short-range entanglement assistance",
+                            "Authors": "S. Santra, V. S. Malinovsky",
+                            "Journal": "Physical Review A 103, 012407 (2021)"
+                        },
+                        {
+                            "Title": "Ising formulation of associative memory models and quantum annealing recall",
+                            "Authors": "S. Santra, O. Shehab, R. Balu",
+                            "Journal": "Physical Review A 96, 062330 (2017)"
+                        },
+                        {
+                            "Title": "MAX 2-SAT with up to 108 qubits",
+                            "Authors": "S. Santra, G. Quiroz, G. V. Steeg, D. A. Lidar",
+                            "Journal": "New Journal of Physics 16, 45006 (2014)"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Education Qualification": "PhD: University of Southern California, Los Angeles, 2014\nPostdoc: US Army Research Laboratory, Adelphi, Maryland, USA 2014-2021\nStanford University, California, USA, 2015-2016",
+                        "Courses Teaching/Taught": "Mathematical Physics -1 (PH 407)\nQuantum Mechanics - 1 (PH 204)",
+                        "Google Scholar Link": "Not Available",
+                        "Personal Website": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Pradeep Sarin",
+                    "Email Address": "pradeepsarin@iitb.ac.in",
+                    "Phone Number": "+91-22-25767591",
+                    "Office Location": "307",
+                    "Research Interests": "The physics of elementary particles, developing particle detectors for high energy physics experiments, semiconductor detectors, high energy experiments",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Website": "Not Available",
+                        "Affiliations": [
+                            "CMS experiment at CERN\u2019s Large Hadron Collider (LHC)",
+                            "COMET experiment at J-PARC in Japan"
+                        ],
+                        "Projects": [
+                            "Search for supersymmetry, dark matter, and extra dimensions at LHC",
+                            "Search for rare lepton flavor violating muon-to-electron conversion at COMET"
+                        ],
+                        "Funding": [
+                            "DST",
+                            "Indo-JSPS cooperative science program"
+                        ],
+                        "Joint PhD Program": "Osaka University, Japan",
+                        "Role": "Associate Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Manibrata Sen",
+                    "Email Address": "manibrata@iitb.ac.in",
+                    "Phone Number": "Not Available",
+                    "Office Location": "-115 C",
+                    "Research Interests": "Theoretical astroparticle physics: Neutrinos, Dark Matter, Early Universe Cosmology, Compact Objects",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Fast neutrino flavour conversions near the supernova core with realistic flavour-dependent angular distributions",
+                            "Journal": "JCAP 02 (2017) 019",
+                            "Authors": "Basudeb Dasgupta, Alessandro Mirizzi, and Manibrata Sen",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Collisional triggering of fast flavor conversions of supernova neutrinos",
+                            "Journal": "Phys.Rev.Lett. 122 (2019) 9, 091101",
+                            "Authors": "Francesco Capozzi, Basudeb Dasgupta, Alessandro Mirizzi, Manibrata Sen and Gunter Sigl",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "The Dodelson-Widrow Mechanism In the Presence of Self-Interacting Neutrinos",
+                            "Journal": "Phys.Rev.Lett. 124 (2020) 8, 081802",
+                            "Authors": "Andr\u00e9 de Gouv\u00eaa, Manibrata Sen, Walter Tangarife, and Yue Zhang",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Intimate Relationship between Sterile Neutrino Dark Matter and \u2206Neff",
+                            "Journal": "Phys.Rev.Lett. 127 (2021) 4, 041101",
+                            "Authors": "Kevin J. Kelly, Manibrata Sen and Yue Zhang",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Fundamental physics with the diffuse supernova background neutrinos",
+                            "Journal": "Phys.Rev.D 102 (2020) 123012",
+                            "Authors": "Andr\u00e9 de Gouv\u00eaa, Ivan Martinez-Soler, Yuber F Perez-Gonzalez and Manibrata Sen",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Webpage": "Available (mentioned in text, but URL not provided)",
+                        "CV": "Available (mentioned in text, but URL not provided)",
+                        "Inspire-HEP": "Available (mentioned as source for publications)",
+                        "arXiv": "Available (mentioned as source for publications)",
+                        "Affiliations": "High Energy Theory",
+                        "Awards": "Not Available",
+                        "Roles": "Assistant Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "M Senthil Kumar",
+                    "Email Address": "senthil@iitb.ac.in",
+                    "Phone Number": "+91-22-25767581",
+                    "Office Location": "Not Available",
+                    "Research Interests": "Magnetic thin films and multilayers; Nanostructured magnetic thin films; Magnetic-Semiconductor multilayers",
+                    "Select Recent Publications": "Not Available",
+                    "Additional Details": {
+                        "Designation": "Professor",
+                        "Area": "Condensed Matter Experiments"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Alok Shukla",
+                    "Email Address": "shukla@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767576",
+                    "Office Location": "221",
+                    "Research Interests": "Theory of the electronic structure of atoms, molecules, clusters, and solids; Condensed Matter Theory",
+                    "Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Personal Webpage": "Personal webpage",
+                        "Google Scholar": "Google Scholar Link",
+                        "Other": "Developed computer codes for computational methodology;  Ph. D. in theoretical atomic many-body physics; Post-doctoral experience at Idaho National Engineering Laboratory, Max-Planck Institutes (Stuttgart and Dresden), and the University of Arizona"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "P. P. Singh",
+                    "Email Address": "ppsingh@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767593",
+                    "Office Location": "Not Available",
+                    "Research Interests": "Condensed Matter Theory",
+                    "Select Recent Publications": "Not Available",
+                    "Additional Details": {
+                        "Designation": "Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Sunita Srivastava",
+                    "Email Address": "sunita.srivastava@phy.iitb.ac.in",
+                    "Phone Number": "+91 22-2576-7572",
+                    "Office Location": "203",
+                    "Research Interests": "Soft Matter, Nanomaterials, Colloids and Glassy Materials, Self Assembly, Surfaces and interfaces, Lipid Nanoparticle interactions, X-ray Scattering (SAXS, GISAXS, XPCS), Bulk and Interfacial Rheology",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Microstructure of colloid-polymer mixtures containing charged colloidal disks and weakly-adsorbing polymers",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Multiple dynamic regimes in colloid-polymer dispersions: New insight using X-ray photon correlation spectroscopy",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Tunable Nanoparticle Arrays at Charged Interfaces",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Two-Dimensional DNA-Programmable Assembly of Nanoparticles at Liquid Interfaces",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Super-compressible DNA Nanoparticle Lattices",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Title": "Associate Professor",
+                        "Research Homepage": "Not Available",
+                        "Google Scholar": "Complete List of Publications@ Google Scholar",
+                        "Area": "Soft Matter Physics"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "K. G. Suresh",
+                    "Email Address": "suresh@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767559",
+                    "Office Location": "Not Available",
+                    "Research Interests": "Condensed Matter Experiments",
+                    "Select Recent Publications": "Not Available",
+                    "Additional Details": {
+                        "Designation": "Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "S. Umasankar",
+                    "Email Address": "uma@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767557",
+                    "Office Location": "Room 240",
+                    "Research Interests": "Neutrino Physics and Flavour Physics, High Energy Theory",
+                    "Select Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "iNSPIRE-HEP link": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Raghava Varma",
+                    "Email Address": "varma@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767582",
+                    "Office Location": "Not Available",
+                    "Research Interests": "High Energy Experiments",
+                    "Select Recent Publications": "Not Available",
+                    "Additional Details": {
+                        "Designation": "Professor"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Parinda Vasa",
+                    "Email Address": "parinda@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767556",
+                    "Office Location": "304-A",
+                    "Research Interests": "Experimental nano-photonics, plasmonics, spectroscopy of nanostructured materials.",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "White light spectral interferometry for determining inhomogeneous broadening in solutions and colloids",
+                            "Journal": "ACS Nanoscience Au",
+                            "Volume": "2",
+                            "Page": "486",
+                            "Year": "2022",
+                            "Note": "Invited article"
+                        },
+                        {
+                            "Title": "Topology-changing broadband active metamaterials enabled by closable nanotrenches",
+                            "Journal": "Nano Letters",
+                            "Volume": "21",
+                            "Page": "4202",
+                            "Year": "2021"
+                        },
+                        {
+                            "Title": "Exciton-surface plasmon polariton interactions",
+                            "Journal": "Advances in Physics X",
+                            "Volume": "5",
+                            "Page": "1749884",
+                            "Year": "2020",
+                            "Note": "Invited review article"
+                        },
+                        {
+                            "Title": "Charge induced lattice compression in monolayer MoS2",
+                            "Journal": "Journal of Physical Chemistry C",
+                            "Volume": "123",
+                            "Page": "17943",
+                            "Year": "2019"
+                        },
+                        {
+                            "Title": "Strong light-matter interaction",
+                            "Journal": "Encyclopedia of Applied Physics",
+                            "Publisher": "Wiley Online Library",
+                            "Year": "2019",
+                            "Note": "Invited tutorial article"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Education Qualification": "PhD (2005, TIFR, Mumbai, India), Post-doc (2006-2011, Carl von Ossietzky University, Oldenburg, Germany)",
+                        "Courses Teaching/Taught": "Light-matter interaction, Quantum physics, Optics, Ultrafast Sciences, Nanomaterials and devices",
+                        "Research Group": "Photonics Experiments"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Sai Vinjanampathy",
+                    "Email Address": "sai@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-2576-7592",
+                    "Office Location": "209",
+                    "Research Interests": "Quantum Information Theory, Quantum Control Theory, Quantum Synchronisation, Non-Equilibrium Statistical Mechanics",
+                    "Recent Publications": [
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        },
+                        {
+                            "title": "Not Available",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Group Website": "Not explicitly provided, but text mentions 'Please visit our group website for details'",
+                        "Education": "Ph.D. Louisiana State University",
+                        "Courses Taken": "PH403 Quantum Mechanics, PH534 Quantum Information, PH202 Waves and Oscillations, PH117 Laboratory",
+                        "Alumni": "Dr. Parvinder Solanki (Currently at the University of Basel)",
+                        "Current Students": "Muthumanimaran Vetrivelan, Abhisek Panda, Midhun Krishna, Yeshma Ibrahim",
+                        "Google Scholar Link": "seeGoogle Scholar Link"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Aftab Alam",
+                    "Email Address": "aftab@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25765564 (O)",
+                    "Office Location": "229C",
+                    "Research Interests": "Magnetism and Spintronics, Understanding exotic phases of Superconductors and Topological Insulators, Effect of variable relaxation time on thermoelectric properties of materials, Electronic and Optical properties of solar harvesting materials, Electro and Photocatalysis, Electronic Structure and Thermodynamics of Alloys, Long-range, Partial and Short-Range Ordering in Alloys, Vibrational properties of intermetallic and disordered materials, Response functions in materials with defects.",
+                    "Recent Publications": [
+                        {
+                            "Title": "Mixed metal-antimony oxide nanocomposites : low pH water oxidation electrocatalysts with outstanding durability at ambient and elevated temperatures",
+                            "Link": null,
+                            "Journal": "J. Mater. Chem. A",
+                            "Volume": "9",
+                            "Page": "27468",
+                            "Year": "2021"
+                        },
+                        {
+                            "Title": "Origin of High Non-radiative Recombination and Relevant Optoelectronic Properties of Ba2Bi_1+xNb1-xO6: Candidate for Photo(electro) catalysis and Photovoltaic Application",
+                            "Link": null,
+                            "Journal": "Advanced Optical Materials",
+                            "Volume": "2000901",
+                            "Page": "1-10",
+                            "Year": "2020"
+                        },
+                        {
+                            "Title": "Revealing the nature of antiferro-quadrupolar ordering in cerium hexaboride CeB_6",
+                            "Link": null,
+                            "Journal": "Phys. Rev. Lett",
+                            "Volume": "122",
+                            "Page": "076401",
+                            "Year": "2019"
+                        },
+                        {
+                            "Title": "Double Perovskites overtaking the single perovskites: A set of new solar harvesting materials with much higher stability and efficiency",
+                            "Link": null,
+                            "Journal": "Phys. Rev. Materials",
+                            "Volume": "2",
+                            "Page": "055401",
+                            "Year": "2018"
+                        },
+                        {
+                            "Title": "Bismuth based Half Heusler Alloys with giant thermoelectric figure of merit",
+                            "Link": null,
+                            "Journal": "J. of Mater. Chem. A",
+                            "Volume": "5",
+                            "Page": "6131-6139",
+                            "Year": "2017"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Group Webpage": "Not Available",
+                        "Google Scholar Link": "Not Available",
+                        "Area": "Condensed Matter Theory"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "M. Aslam",
+                    "Email Address": "aslam@phy.iitb.ac.in",
+                    "Phone Number": "+91-22-25767585",
+                    "Office Location": "Not Available",
+                    "Research Interests": [
+                        "Oxides and other earth abundant compounds (CZTS) for photovoltaic applications",
+                        "Graphene and graphene like semiconductors for water splitting, photosensing and energy storage applications",
+                        "Organic perovskites: Nanoparticle Fabrication, stabilization and thin film formalism",
+                        "Magnetic nanoparticles: MRI imaging and GMR applications"
+                    ],
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Designation": "Professor",
+                        "Field": "Condensed Matter Experiments",
+                        "Web Links": "FB weblinks for current research activities and news",
+                        "Google Scholar": "Google scholar link: (For current publications click on year tab)"
+                    }
+                }
+            ]
+        },
+        {
+            "faculty": [
+                {
+                    "Full Name": "Soumya Bera",
+                    "Email Address": "soumya.bera@iitb.ac.in",
+                    "Phone Number": "+91-22-2576-9378",
+                    "Office Location": "210",
+                    "Research Interests": "Theoretical Condensed Matter Physics, Quantum simulation of novel phases of matter, interplay of topology, disorder, and interactions, quantum information, non-equilibrium dynamics, Quantum phase transitions, Quantum criticality, Topological phases, Quantum Hall physics, Many-body localization",
+                    "Select Recent Publications": [
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        },
+                        {
+                            "Title": "Not Available",
+                            "Link": "Not Available"
+                        }
+                    ],
+                    "Additional Details": {
+                        "Group Website": "Available (Link not provided in the original data)",
+                        "Postdoctoral Position Opening": true,
+                        "Summer Project Openings": false,
+                        "Affiliations/Awards": "Not Available"
+                    }
+                }
+            ]
+        }
+    ],
+    "Research": {
+        "Theoretical High Energy Physics": {
+            "Research Area/Description": "Research focuses on elementary particle physics, physics beyond the Standard Model, exploring various open questions related to the Higgs boson, top quark physics, proton spin, neutrino physics, flavor physics, unified theories, supersymmetry, topological quantum field theories, AdS-CFT correspondence, astroparticle physics, and early universe cosmology including matter-antimatter asymmetry, dark matter, and inflationary paradigm.",
+            "Key Researchers": [
+                {
+                    "name": "S Umasankar",
+                    "role": "Faculty (Group Leader)"
+                },
+                {
+                    "name": "Asmita Mukherjee",
+                    "role": "Faculty (Group Leader)"
+                },
+                {
+                    "name": "Vikram Rentala",
+                    "role": "Faculty (Group Leader)"
+                },
+                {
+                    "name": "Manibrata Sen",
+                    "role": "Faculty (Group Leader)"
+                }
+            ],
+            "Ongoing Projects": [
+                {
+                    "project_name": "Higgs and Top quark physics in beyond Standard Model (bSM) models",
+                    "description": "Exploring collider signatures of new physics contributions to Higgs and top quark observables, through polarization and jet substructure studies both at the Large Hadron Collider (LHC) and the proposed International Linear Collider (ILC).",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "Understanding the proton spin",
+                    "description": "Investigating how the proton's spin is built up from the intrinsic spin of quarks and gluons and their orbital angular momentum.",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "Neutrino Physics",
+                    "description": "Exploring the smallness of neutrino masses, their mixings, mass hierarchy, CP violation, and Majorana nature.",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "Flavour Physics",
+                    "description": "Investigating the masses and mixings of fermions in the Standard Model, CP violating parameters, and their connection to baryon asymmetry.",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "Supersymmetric gauge theories",
+                    "description": "Studying supersymmetry and its implications for the standard Higgs, exploring left-right symmetric extended supersymmetric models and their ability to explain matter-antimatter asymmetry and neutrino mass.",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "Topological Quantum Field Theories and knot theory",
+                    "description": "Working on knot polynomials using Chern-Simons topological field theory.",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "AdS-CFT correspondence",
+                    "description": "Utilizing string theory-gauge theory dualities to understand counting of BPS states and transport properties like shear viscosity to entropy density ratio.",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "Matter-antimatter asymmetry",
+                    "description": "Exploring mechanisms for generating matter-antimatter asymmetry in the early universe, including the role of topological defects.",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "Dark matter",
+                    "description": "Investigating the particle nature of dark matter and potential candidates within extended models.",
+                    "link": "Not Available"
+                },
+                {
+                    "project_name": "Inflationary paradigm",
+                    "description": "Studying the properties of the inflaton field and its impact on the Cosmic Microwave Background Radiation.",
+                    "link": "Not Available"
+                }
+            ],
+            "Additional Details": {
+                "Facilities Used": "Not Available",
+                "Collaborations": "Not Available",
+                "Notable Achievements": "Not Available"
+            }
+        }
+    },
+    "research": [
+        {
+            "research_areas": [
+                {
+                    "name": "Experimental High Energy Physics",
+                    "description": "Not Available",
+                    "key_researchers": [
+                        {
+                            "name": "Raghava Varma",
+                            "role": "Faculty (Group Leader)"
+                        },
+                        {
+                            "name": "Basanta Nandi",
+                            "role": "Faculty (Group Leader)"
+                        },
+                        {
+                            "name": "Sadhana Dash",
+                            "role": "Faculty (Group Leader)"
+                        }
+                    ],
+                    "ongoing_projects": "Not Available",
+                    "additional_details": "Not Available"
+                }
+            ]
+        },
+        {
+            "research_areas": [
+                {
+                    "area": "Theoretical Condensed Matter Physics",
+                    "description": "Focuses on developing advanced theory, algorithms, and codes to explain various properties of materials (crystal structure, magnetism, transport) in both 3D bulk materials and low-dimensional systems (graphene, nanotubes, clusters). Utilizes theoretical modeling and first-principles calculations based on Density Functional Theory.",
+                    "key_researchers": [
+                        {
+                            "name": "Prabhakar Singh",
+                            "role": "Group Leader"
+                        },
+                        {
+                            "name": "Aftab Alam",
+                            "role": "Group Leader"
+                        },
+                        {
+                            "name": "Soumya Bera",
+                            "role": "Group Leader"
+                        },
+                        {
+                            "name": "Hridis Pal",
+                            "role": "Group Leader"
+                        },
+                        {
+                            "name": "Prashant Kumar",
+                            "role": "Group Leader"
+                        }
+                    ],
+                    "ongoing_projects": "Not Available",
+                    "additional_details": {
+                        "facilities": "Not Available",
+                        "collaborations": "Not Available",
+                        "achievements": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "research_areas": [
+                {
+                    "area": "Experimental Condensed Matter Physics",
+                    "description": "Research focuses on a variety of material systems, including magnetic materials (ferrites, oxide/nitride semiconductors, organic semiconductors), metallic compounds, multilayer thin films, Heuslar alloys, spin chain compounds, intermetallics,  artificial diamond films, and graphene-based sensors and chemical filters.",
+                    "key_researchers": [
+                        {
+                            "name": "M Senthil kumar",
+                            "role": "Faculty"
+                        },
+                        {
+                            "name": "K G Suresh",
+                            "role": "Faculty"
+                        },
+                        {
+                            "name": "M Aslam",
+                            "role": "Faculty"
+                        },
+                        {
+                            "name": "Dinesh Kabra",
+                            "role": "Faculty"
+                        },
+                        {
+                            "name": "Pramod Kumar",
+                            "role": "Faculty"
+                        },
+                        {
+                            "name": "Uditendu Mukhopadhyay",
+                            "role": "Faculty"
+                        }
+                    ],
+                    "ongoing_projects": [
+                        {
+                            "name": "Growth of Magnetic Materials",
+                            "description": "Using Pulsed Laser Deposition (PLD), Chemical Vapor Deposition (CVD), and Langmuir Blodgett systems to grow ferrites, oxide/nitride semiconductors, and organic semiconductors.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "High Pressure High Temperature Synthesis",
+                            "description": "Producing metallic compounds with uncommon metal ion oxidation states.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "Spintronic Applications of Heuslar Alloys and Multilayer Thin Films",
+                            "description": "Investigating spin and electronic structure correlations in Heuslar alloys and multilayer thin films for spintronic applications.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "Spin Interactions and Phases in Spin Chain Compounds and Intermetallics",
+                            "description": "Studying spin glass and spin liquid behavior in spin chain compounds and intermetallics using solid-state NMR to understand fundamental spin-spin interactions.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "Artificial Diamond Films for Radiation-Hard Detectors",
+                            "description": "Developing artificial diamond films using Microwave Plasma CVD for high-energy particle detector applications.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "Graphene-based Sensors and Chemical Filters",
+                            "description": "Developing sensors and chemical filters based on graphene nanomaterials.",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "additional_details": {
+                        "facilities": "PLD/CVD, Langmuir Blodgett systems, High Pressure High Temperature furnace, Solid State NMR, Microwave Plasma CVD, AFM, High resolution X-ray diffraction, Surface chemical Analyser (ESCA), Class 10,000 cleanroom with photolithography, rapid thermal annealing, chip scribing, and ultrasonic wire bonding, Cryogenic facility with liquid Helium, Magneto-transport and SQUID magnetometry down to 300 mK.",
+                        "collaborations": "Not Available",
+                        "achievements": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "research_area": "Soft Matter, Biophysics, and Nonlinear Dynamics",
+            "description": "Research in this area spans theoretical and experimental investigations of soft matter (polymers, granular matter, driven poly-crystals), biological physics (active matter, gene regulation, epigenetics, cellular dynamics, mechanics of cell division, shape transformations), and nonlinear dynamics (electrical circuits, electrochemical systems, stochastic delay differential equations).  The work builds upon the foundations of statistical mechanics and extends to non-equilibrium processes and nonlinear phenomena.",
+            "key_researchers": [
+                {
+                    "name": "Anirban Sain",
+                    "role": "Group Leader"
+                },
+                {
+                    "name": "Punit Parmananda",
+                    "role": "Group Leader"
+                },
+                {
+                    "name": "Raghunath Chelakkot",
+                    "role": "Group Leader"
+                },
+                {
+                    "name": "Sunita Srivastava",
+                    "role": "Group Leader"
+                }
+            ],
+            "ongoing_projects": [
+                {
+                    "project_name": "Not Available",
+                    "description": "Not Available",
+                    "link": "Not Available"
+                }
+            ],
+            "additional_details": {
+                "facilities": "Not Available",
+                "collaborations": "Not Available",
+                "achievements": "Not Available"
+            }
+        },
+        {
+            "research_areas": [
+                {
+                    "area": "Optics and Photonics",
+                    "description": "Explores light-matter interactions in various physical systems to understand fundamental concepts and develop novel technologies. Focuses on nonlinear optics, ultrafast phenomena, molecular spectroscopy, nano-optics and plasmonics, organic LEDs and devices.",
+                    "key_researchers": "Not Available",
+                    "ongoing_projects": "Not Available",
+                    "additional_details": {
+                        "facilities": "Labs and central facilities at IIT Bombay",
+                        "courses_offered": [
+                            "Optics",
+                            "Basic and Advanced Photonics",
+                            "Light-Matter Interaction",
+                            "Optics at Nanoscale",
+                            "Introduction to Atomic and Molecular Physics"
+                        ],
+                        "notable_achievements": "Not Available"
+                    }
+                },
+                {
+                    "area": "Tapanendu Kundu Group",
+                    "description": "Not Available",
+                    "key_researchers": "Tapanendu Kundu",
+                    "ongoing_projects": "Not Available",
+                    "additional_details": "Not Available"
+                },
+                {
+                    "area": "Dinesh Kabra Group",
+                    "description": "Not Available",
+                    "key_researchers": "Dinesh Kabra",
+                    "ongoing_projects": "Not Available",
+                    "additional_details": "Not Available"
+                }
+            ]
+        },
+        {
+            "research_areas": [
+                {
+                    "area": "Astronomy, Cosmology and Gravity (ACG)",
+                    "description": "Research encompasses observational astrophysics, gravitational wave physics and astronomy, dark matter studies, and early-universe cosmology.",
+                    "key_researchers": [
+                        {
+                            "name": "Varun Bhalerao",
+                            "role": "Observational astrophysics and instrumentation, transient studies, GROWTH-India project, AstroSat CZTI"
+                        },
+                        {
+                            "name": "Archana Pai",
+                            "role": "Gravitational wave physics and astronomy, detection algorithms, LIGO Scientific Collaboration"
+                        },
+                        {
+                            "name": "Vikram Rentala",
+                            "role": "Particle astrophysicist, dark matter research (self-interactions, annihilation signals, direct detection, collider searches)"
+                        },
+                        {
+                            "name": "Shankaranarayanan",
+                            "role": "Gravitational physics and quantum field theory, early-universe cosmology, black hole physics, magnetogenesis"
+                        }
+                    ],
+                    "ongoing_projects": [
+                        {
+                            "name": "GROWTH-India",
+                            "description": "Development of a 0.7m autonomous optical telescope at Hanle, Ladakh for transient studies.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "AstroSat CZTI Transient Studies",
+                            "description": "Detection and study of transients using the Cadmium Zinc Telluride Imager on AstroSat.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "LIGO Scientific Collaboration",
+                            "description": "Development of detection algorithms for gravitational waves and participation in the search for intermediate mass black hole binaries.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "Dark Matter Research",
+                            "description": "Exploring various aspects of dark matter including self-interactions, annihilation signals, direct detection, and collider searches.",
+                            "link": "Not Available"
+                        },
+                        {
+                            "name": "Early Universe Cosmology Research",
+                            "description": "Investigation of topics such as the origin of magnetic fields in galaxies, using cosmic microwave background to probe new physics, and black hole physics.",
+                            "link": "Not Available"
+                        }
+                    ],
+                    "additional_details": {
+                        "facilities": [
+                            "0.7m autonomous optical telescope at Hanle, Ladakh",
+                            "AstroSat",
+                            "LIGO",
+                            "Virgo"
+                        ],
+                        "collaborations": [
+                            "GROWTH-India",
+                            "LIGO Scientific Collaboration"
+                        ],
+                        "achievements": "Not Available"
+                    }
+                }
+            ]
+        },
+        {
+            "research_areas": [
+                {
+                    "area": "Quantum Information Theory",
+                    "description": "Studies the universe from a 'software' perspective, analyzing the information theoretic content of physical processes, combined with a 'hardware' perspective of fundamental laws. Focuses on physical problems including quantum technologies, light-matter interactions, and quantum networks.",
+                    "key_researchers": [
+                        {
+                            "name": "Sai Vinjanampathy",
+                            "role": "Faculty (Group Leader)"
+                        },
+                        {
+                            "name": "Siddhartha Santra",
+                            "role": "Faculty (Group Leader)"
+                        }
+                    ],
+                    "ongoing_projects": "Not Available",
+                    "additional_details": "Not Available"
+                }
+            ]
+        }
+    ],
+    "staff": [
+        [
+            {
+                "Full Name": "Ashok S. Gonaka",
+                "Designation": "Jr. Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25767551",
+                "Office Location": "201",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Vinayak Govind Bhate",
+                "Designation": "Jr. Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "022-25768506",
+                "Office Location": "201",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Nilesh T. Ghule",
+                "Designation": "Administrative Superintendent",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25767552",
+                "Office Location": "201",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Rekha Kurade",
+                "Designation": "Jr. Attendant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25767551",
+                "Office Location": "201",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Aarakh Rahul",
+                "Designation": "Casual Labour",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25767551",
+                "Office Location": "1st Year Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Vijay S. Salunke",
+                "Designation": "Sr. Project Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-21596595",
+                "Office Location": "201",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "R B Shinde",
+                "Designation": "Multi-Skilled Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25767551",
+                "Office Location": "201",
+                "Additional Details": "Not Available"
+            }
+        ],
+        [
+            {
+                "Full Name": "Amol Y. Kurdhundkar",
+                "Designation": "Jr. Lab Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764559",
+                "Office Location": "Gen. Physics Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Mangesh D. Sawant",
+                "Designation": "Sr. Mechanic",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-21596541",
+                "Office Location": "Workshop",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Prajakta A. Bhoir",
+                "Designation": "Senior Technical Superintendent",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764564",
+                "Office Location": "Nuclear Physics Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Dharmesh V. Dorik",
+                "Designation": "Jr. Mechanic",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764594",
+                "Office Location": "011",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Swapnali G. Gharat",
+                "Designation": "Senior Technical Superintendent",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764590",
+                "Office Location": "Electronics Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Satish R. Kinikar",
+                "Designation": "Jr. Technical Superintendent",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764552",
+                "Office Location": "Low Temp Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Pradip L. Madake",
+                "Designation": "Jr. Lab Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764590",
+                "Office Location": "Electronics Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Snehal R. Narvekar",
+                "Designation": "Jr. Lab Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764599",
+                "Office Location": "Ist year Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Chandrakant Pandey",
+                "Designation": "Senior Technical Superintendent",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-21596508",
+                "Office Location": "Computer Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Nitin T. Pawar",
+                "Designation": "Technical Officer",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764590",
+                "Office Location": "Electronics Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Ajay Shetake",
+                "Designation": "Jr. Mechanic",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764594",
+                "Office Location": "Workshop",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Pranali P. Shirke",
+                "Designation": "Jr. Lab Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764544",
+                "Office Location": "Laser Optics Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Shripal Singh",
+                "Designation": "Senior Technical Superintendent",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764392",
+                "Office Location": "Nanoscience Lab",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Kiran J. Thakur",
+                "Designation": "Sr. Mechanic",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-21596541",
+                "Office Location": "011",
+                "Additional Details": "Not Available"
+            },
+            {
+                "Full Name": "Vijay V. Wagh",
+                "Designation": "Sr. Lab Assistant",
+                "Email Address": "Not Available",
+                "Phone Number": "+91-22-25764599",
+                "Office Location": "First year Lab",
+                "Additional Details": "Not Available"
+            }
+        ]
+    ],
+    "Research_facilities": [
+        {
+            "Facility Name": "High Resolution X-ray Diffractometer",
+            "Description": "Used for determining the atomic and molecular structure of a crystal, where crystalline atoms cause a beam of incident X-rays to diffract into many specific directions.",
+            "Location": "Thin Film Lab, Room No. 103",
+            "Accessibility": "Not Available",
+            "Additional Details": "Booking procedure: Not Available, Contact: Subhabrata Dhar"
+        },
+        {
+            "Facility Name": "UV-VIS-NIR Spectrophotometer with Reflectance Accessory and Integrating Sphere",
+            "Description": "Measures the absorbance and reflectance of samples across the ultraviolet, visible, and near-infrared regions of the electromagnetic spectrum.",
+            "Location": "Thin Film Lab, Room No. 103",
+            "Accessibility": "Not Available",
+            "Additional Details": "Booking procedure: Not Available, Contact: S.S. Major"
+        },
+        {
+            "Facility Name": "Powder XRD Machine",
+            "Description": "Used for identifying the crystalline phases present in a powder sample and for determining structural properties.",
+            "Location": "Room No. 014, Ground Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Booking procedure: Download Form. Submit on (M/W/F) between 2-5 PM, Contact: A.V. Mahajan"
+        },
+        {
+            "Facility Name": "Physical Property Measurement System/Magnetometer x5",
+            "Description": "A system used to characterize the physical properties of materials, including magnetic properties.",
+            "Location": "Room No. 014, Ground Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: A.V. Mahajan"
+        },
+        {
+            "Facility Name": "High Pressure High Temperature (HPHT) Furnace",
+            "Description": "A furnace capable of reaching high pressures and temperatures for material synthesis and processing.",
+            "Location": "Room No. 014, Ground Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: A.V. Mahajan"
+        },
+        {
+            "Facility Name": "Atomic Force Microscope (Veeco)",
+            "Description": "Used to image surfaces at the nanoscale level by scanning a sharp probe over the sample.",
+            "Location": "Room No. 133, First Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Mohammad Aslam"
+        },
+        {
+            "Facility Name": "Scanning Electron Microscope (JEOL)",
+            "Description": "Uses a focused beam of electrons to create images of a sample, providing high-resolution surface information.",
+            "Location": "Room No. 133, First Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Mohammad Aslam"
+        },
+        {
+            "Facility Name": "UV-Visible NIR Spectrometer (Perkin Elmer)",
+            "Description": "Used to measure the absorbance and transmittance of samples across the ultraviolet, visible, and near-infrared spectral range.",
+            "Location": "Room No. 133, First Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Mohammad Aslam"
+        },
+        {
+            "Facility Name": "Thermal Evaporator",
+            "Description": "Used for depositing thin films of materials by heating a source material in a vacuum.",
+            "Location": "Room No. 133, First Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Mohammad Aslam"
+        },
+        {
+            "Facility Name": "Spin Coater",
+            "Description": "Used to create uniform thin films on flat substrates by spinning the substrate at high speed while dispensing a liquid solution.",
+            "Location": "Room No. 133, First Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Mohammad Aslam"
+        },
+        {
+            "Facility Name": "Optical Microscope",
+            "Description": "Uses visible light and a system of lenses to magnify images of small samples.",
+            "Location": "Room No. 133, First Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Mohammad Aslam"
+        },
+        {
+            "Facility Name": "Liquid Helium Plant (with Recovery System)",
+            "Description": "Produces and recovers liquid helium for cryogenic experiments.",
+            "Location": "Ground Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Kantimay Das Gupta"
+        },
+        {
+            "Facility Name": "Mask Aligner for Sample Size Upto 4 Inches",
+            "Description": "Used for photolithography, a process for creating patterned thin films.",
+            "Location": "Room No. 317, Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Kantimay Das Gupta"
+        },
+        {
+            "Facility Name": "Rapid Thermal Annealer (Upto 750 C)",
+            "Description": "Used for rapid thermal processing of materials, including annealing and oxidation.",
+            "Location": "Room No. 317, Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Kantimay Das Gupta"
+        },
+        {
+            "Facility Name": "Class 10,000 Clean-Room Facility with Approx 350 sqft Floor Area",
+            "Description": "A controlled environment with a low level of pollutants, suitable for fabrication and characterization of sensitive devices.",
+            "Location": "Room No. 317, Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Kantimay Das Gupta"
+        },
+        {
+            "Facility Name": "Thermal Evaporator with 4-Position Turret x 3 (HindHivac)",
+            "Description": "Allows for sequential deposition of different materials without breaking vacuum.",
+            "Location": "Room No. 317, Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Kantimay Das Gupta"
+        },
+        {
+            "Facility Name": "Ultrasonic Wire Bonder (Model TPT HB05)",
+            "Description": "Used to make electrical connections between microchips and other components using ultrasonic energy.",
+            "Location": "Room No. 317, Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Kantimay Das Gupta"
+        },
+        {
+            "Facility Name": "He-3 Cryostat (Base Temperature ~250 mK) with 9T Superconducting Magnet and Sample Rotation Capability (Oxford Instruments)",
+            "Description": "Provides extremely low temperatures and high magnetic fields for studying the behavior of materials at cryogenic temperatures.",
+            "Location": "Room No. 317, Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Kantimay Das Gupta"
+        },
+        {
+            "Facility Name": "Tunable ps Source",
+            "Description": "Generates picosecond laser pulses with adjustable wavelength.",
+            "Location": "Room No., Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Parinda Vasa"
+        },
+        {
+            "Facility Name": "10 fs Ti:Sapphire Laser",
+            "Description": "A femtosecond laser used for ultrafast spectroscopy and other applications.",
+            "Location": "Room No., Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Parinda Vasa"
+        },
+        {
+            "Facility Name": "Closed Cycle Refrigerators x3 (Janis/ CTI Cryogenics)",
+            "Description": "Provide cooling for experiments at cryogenic temperatures without consuming liquid cryogens.",
+            "Location": "Room No., Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Parinda Vasa"
+        },
+        {
+            "Facility Name": "Optical Components (Lenses, Mirrors, Polarizers, Waveplate, Prisms, Gratings etc)",
+            "Description": "A collection of various optical components for building and modifying optical setups.",
+            "Location": "Optics Lab, Third Floor",
+            "Accessibility": "Not Available",
+            "Additional Details": "Contact: Parinda Vasa"
+        }
+    ]
+}
