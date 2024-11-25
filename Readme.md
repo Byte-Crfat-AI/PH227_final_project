@@ -10,6 +10,5 @@ For this project our Mother data was UG rulebook which gives us the primary deta
 
 
 
-## Installation
-
-To install the necessary dependencies, run:
+## Google Drive
+As the source files are kind of bulky, here is the google drive link with the source files https://drive.google.com/file/d/1IhVSvYO337Vf4uGm4dy8tcUa6G8-J5Lz/view?usp=drive_link
